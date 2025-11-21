@@ -32,7 +32,7 @@ def fetch_post(post_id):
             resp = requests.get(url, timeout=15)
             return resp.status_code, resp.text
         except:
-            time.sleep(2)
+            time.sleep(0)
     return None, None
 
 def process_post(post_id):
