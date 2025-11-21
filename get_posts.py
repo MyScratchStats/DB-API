@@ -14,7 +14,7 @@ import time
 CSV_FILE = "scratch_posts.csv"
 THREAD_COUNT = 300
 BATCH_SIZE = 1000         # each thread grabs 1000 posts per batch
-MAX_POST_ID = 10000
+MAX_POST_ID = 1000000
 tzinfos = {"EST": -21600}
 
 post_data = []
