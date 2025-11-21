@@ -12,9 +12,9 @@ import time
 # Configuration
 # -----------------------------
 CSV_FILE = "scratch_posts.csv"
-THREAD_COUNT = 300
-BATCH_SIZE = 1000         # each thread grabs 1000 posts per batch
-MAX_POST_ID = 1000000
+THREAD_COUNT = 500000
+BATCH_SIZE = 3000         # each thread grabs 1000 posts per batch
+MAX_POST_ID = 100000
 tzinfos = {"EST": -21600}
 
 post_data = []
