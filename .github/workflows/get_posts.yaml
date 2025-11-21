@@ -1,0 +1,42 @@
+name: get new posts
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write   # REQUIRED so the workflow can push changes
+
+jobs:
+  get_posts:
+    name: get new forum posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true   # needed for pushing
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - run: pip install requests bs4 python-dateutil asyncio-throttle aiohttp
+
+      - run: python get_posts.py
+        env:
+          SCRATCH_TOKEN: ${{ secrets.SCRATCH_TOKEN }}
+
+      # Commit & push any changes
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated update from workflow"
+            git push
+          fi
