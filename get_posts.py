@@ -21,17 +21,17 @@ from dateutil import parser as dateparser
 # -------------------------
 # Configuration
 # -------------------------
-MAX_POST_ID = 1000
+MAX_POST_ID = 1000000
 START_POST_ID = 1
 CSV_FILE = "scratch_posts.csv"
 POSTS_DIR = "posts"
 USER_AGENT = "Mozilla/5.0 (compatible; AsyncScraper/1.0; +https://example.com/bot)"
 CONCURRENCY = 500               # max concurrent HTTP requests
 TCP_LIMIT = CONCURRENCY
-MAX_RETRIES = 4
-INITIAL_BACKOFF = 0.3
+MAX_RETRIES = 2
+INITIAL_BACKOFF = 0.1
 TIMEOUT = aiohttp.ClientTimeout(total=20)
-PARSER_THREADPOOL_SIZE = 32
+PARSER_THREADPOOL_SIZE = 100
 tzinfos = {"EST": -21600}
 
 # -------------------------
