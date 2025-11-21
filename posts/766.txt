@@ -1,0 +1,9 @@
+This is great! I know that sounds weird, but if you've found a bad bug, it'll help us figure it out now, so others won't have to deal with it / so we can tell them workarounds.
+First of all, this is something that's definitely Adobe's fault - they're in charge of not crashing no matter what an application (like ours) asks them to do. However, we can try to file a bug with them, or maybe understand what causes it better if you give us some more info.
+Can you go to the adobe site and tell us the version of Adobe Flash you are using? This page gives the info we need:
+http://helpx.adobe.com/flash-player/kb/find-version-flash-player.html
+Also, what version of Firefox are you using? (and what version of bodhi linux?)
+Thanks!
+Oh and btw there's a recent post that has lots of discussion on the paint editor here:
+http://alpha.scratch.mit.edu/forums/topic/96/
+Last edited by Lightnin (Oct. 10, 2012 12:14:06)

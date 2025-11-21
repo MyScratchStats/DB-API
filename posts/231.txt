@@ -1,0 +1,3 @@
+Lightnin
+Quite true! We trust our testers though. And even if the access code is given out (which we hope it won't be), only accounts that have been enabled can actually login to the site. Try to login to one of your test accounts, and you'll see the error message.
+Ah, interesting. So you give the trust, but if they don't handle the responsibility, it's still protected.

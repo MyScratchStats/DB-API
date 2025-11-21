@@ -1,0 +1,2 @@
+I just wanted to add my support to this request.
+We really need the scroll wheel to work in the scripts window.  And, it would be nice if we could scroll the blocks windows as well.

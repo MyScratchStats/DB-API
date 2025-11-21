@@ -1,0 +1,5 @@
+LS97
+And why use 2000 instead of the much more useful and standard Unix time 1970?
+We thought about calling the block “days of Scratch” (or “Scratch time”) and making it report the number of days since May 15, 2007 (the day that Scratch was launched).
+Do you think that would be better or worse than “days since 2000”?
+Last edited by mres (Sept. 29, 2012 07:50:40)

@@ -1,0 +1,1 @@
+If there was a block controlling whether a project is viewed in turbo mode or not, then it would be a lot more convenient for everyone than saying PLAY IN TURBO MODE or DON'T PLAY IN TURBO MODE. It would also make it so that in some parts of the game, it's in turbo, while at other times, it's not.

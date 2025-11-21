@@ -1,0 +1,1 @@
+I think scene name is useful to tell the playing user which scene it is without having to employ a long IF-ELSE, whereas costumes were never devised as needing output to user.

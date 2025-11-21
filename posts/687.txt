@@ -1,0 +1,24 @@
+Well, most of the time when I use it, I get a BSOD (if you don't know what a Blue Screen of Death is,
+this will help you
+)
+When this occured, at the top it said “System_Service_Exception” and at the bottom it was dumping error memory dump files, or whatever. Of course I know Ram Dumps when talking about wiis, but Windows 7 Inspiron Intel Pentium Computers, not really
+Here's Info from a screen that just popped up.
+Problem signature:
+Problem Event Name:	BlueScreen
+OS Version:	6.1.7601.2.1.0.768.3
+Locale ID:	1033
+Additional information about the problem:
+BCCode:	3b
+BCP1:	00000000C000001D
+BCP2:	FFFFF88000000000
+BCP3:	FFFFF88006DD8150
+BCP4:	0000000000000000
+OS Version:	6_1_7601
+Service Pack:	1_0
+Product:	768_1
+Files that help describe the problem:
+C:\Windows\Minidump\100712-17643-01.dmp
+C:\Users\Saca312\AppData\Local\Temp\WER-56331-0.sysdata.xml
+So is it just me, or is the camera block causing Blue Screens of Death on some of you?
+(oh forgot, I had an SD card while using it)
+Help me if possible

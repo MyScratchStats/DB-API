@@ -1,0 +1,7 @@
+I've been laying around with the time blocks and love the new feature, it will help with a lot of things.
+However, there seem to be two uses of the time reporter and the current system doesn't support both of them. The two uses that all time project use are:
+Local Time
+Projects that want to accommodate each user the best; projects that use this might be clocks and OS projects.
+Standard Time
+Projects that are interactive across users mostly want to use this. An example would be my Chat Pro project; it adds the time of each message posting infront of messages. However, when two or more people chat, one might have the time “12:0:49” but user 2 that's in a different time zone will have “14:0:49” instead, making it really confusing, you don't know which time zone, it could have been the next day when that was posted.
+I think the best solution to this problem, one that would make the best of both worlds is a reporter that's in the form of (time in  using ) where you can select the time zone, including one option that's “local time” and one that's Scratch Time. This would eliminate all these problems and make everyone happy.

@@ -1,0 +1,2 @@
+Well, adding a “@media handheld” stylesheet would never affect non-mobile devices.
+I'll file the enhancement request.

@@ -1,0 +1,4 @@
+kayybee
+If someone replies to a comment, I don't think you should get a notification at all.
+Especially because when someone replies to your comment on your project, you get two notifications.
+It's on the list that you shouldn't get a notification for commenting on your own project. But I think it makes sense to get a notification when someone replies - otherwise, you might not see it.

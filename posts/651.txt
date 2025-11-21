@@ -1,0 +1,35 @@
+Changes to the Paint Editor in Scratch 2.0
+As many of you are aware Scratch 2.0 will move from providing a bitmap based paint editor to a vector based paint editor.
+Why vector?
+There are many differences between bitmap and vector based images, and pros and cons of each. One noticeable benefit of vector based images is in scaling.
+Here is the same image in bitmap then vector format:
+Now here they are scaled up:
+You’ll notice the vector image maintains its quality while the bitmap becomes pixelated or ‘fuzzy’. With vector images, your projects can scale to full screen and still look good.
+Other characteristics we saw as benefits of using vector based images are:
+-Vectors drawings can be easier to modify and remix - reshaping, changing colors, resizing, moving or rotating one part of the image.
+-They produce smaller file sizes
+-There currently aren’t that many simple and free vector editors out there whereas there are many simple and free bitmap editors.
+-Vector images produce a look that may be considered more modern.
+That said, the debate between bitmap or vector ‘style’ has a long history which extends beyond the Scratch world. There are of course benefits to bitmaps that vectors don’t have - for example, pixel perfect editing or drawing. We want to support as best we can those of you that sit firmly in the bitmap camp. Though you can’t create bitmaps, we hope to make it easy to import bitmaps and do some basic editing.
+We’re excited about the move to a vector based paint editor but building a good and easy to use vector editor is no easy task. We’ve been working on it for a long time - but there’s still work to be done. We’re releasing our work in progress because we’re interested in feedback from the community of testers.
+Try it out and let us know what you think:
+-What tools are confusing?
+-What types of things are you finding difficult to draw?
+-If you draw something in the vector editor, please share it on the site!
+-(For now we don’t need bugs to be reported - since there are quite a few, and we’re likely aware of most of them. We’ll be asking for bug reports in a later release)
+While you play with it remember that there are many features that have not yet been implemented. Don’t be alarmed…they’re on their way.
+Some features still in the works:
+-Bitmap editing support: import bitmaps and edit them
+-Undo
+-Fill with gradients and a color wheel color picker
+-An eraser tool
+-A better paintbucket
+-A way to set center of rotation for a sprite
+-Better support for creating scenes
+-Tooltips
+- Zooming
+Check back here for updates, bug fixes, and new releases of the paint editor.
+Read more about the differences between bitmap and vector
+here
+.
+Last edited by Champ99 (Oct. 7, 2012 10:24:58)

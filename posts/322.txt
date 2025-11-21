@@ -1,0 +1,4 @@
+The list reporter block (the one with the name of the list) holds the value of all the items in it. In Scratch 1.4, if item 1 is “a”, item 2 is “b”, and item 3 is “c”, the block will read “abc”.
+In Scratch 2.0, there's a space in-between each item, so it would read “a b c”.
+It's not that large an inconsistency, but it's why my latest project didn't work online
+Will this be kept or changed?

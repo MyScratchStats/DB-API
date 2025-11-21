@@ -1,0 +1,5 @@
+GamerDude1 wrote:
+My profile pic won't change.
+Well, my homepage, yes, everywhere else, NO.
+That's probably a result of the caching that is taking place on the system.  Give it a couple of hours and see if it doesn't fix itself.
+Now, I'm going to close this topic since it is very old and references bugs that are fixed long ago.  If you continue to have problems, please make a new topic.

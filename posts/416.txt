@@ -1,0 +1,1 @@
+Whenever I try to  type something into a cloud list, it deletes, and changing cloud variables messes up the number, once it doubled the amount of votes on a project, etc.

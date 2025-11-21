@@ -1,0 +1,2 @@
+So, I updated my chess program so that all the red blocks have been replaced.  I was careful to have the title page sprite showing and on top when I was done.  However, the project looks like this:
+This looks lame.  How can I control what the image/thumbnails will look like?

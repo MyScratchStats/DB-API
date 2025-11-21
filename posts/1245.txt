@@ -1,0 +1,4 @@
+scimonster
+The comment box on the website is only one line high, which is way too small. Luckily i can resize it.
+Ah, can you post your browser / OS stats? And actually, if you want to file this as a bug in the tracker, that'd be great. Also - a small image from a screenshot would help too.
+Last edited by Lightnin (Oct. 22, 2012 11:25:02)

@@ -1,0 +1,4 @@
+Huh, that's interesting!
+But I notice that when viewed in the java player, the project also starts with no pen images visible:
+http://scratch.mit.edu/projects/DaMafflesFractalLab/2422867
+So is this the way it's always been? Or maybe the project itself is clearing when it initializes?

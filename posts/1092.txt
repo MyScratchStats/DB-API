@@ -1,0 +1,3 @@
+Hmm, I can see some of the merits and problems to the different approaches.
+We won't try anything until we get on the new servers, so meanwhile maybe you can come to a consensus on the best approach to try first?
+One way to start is by listing pros / cons of each. But throughout the whole process, respect is pretty key - you won't get consensus / a good design without it.

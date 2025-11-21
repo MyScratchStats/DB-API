@@ -1,0 +1,3 @@
+LS97
+Just pointing out that the quote button in the edittools should ask for the person to quote (and not include the equals sign if blank is given).
+Or if the user clicks “cancel” when prompted for the username. Also, quotes should ideally link to the quoted post if you get to it via the quote button, but that's a minor quip.

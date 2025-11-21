@@ -1,0 +1,9 @@
+This idea has definate ways to abuse:
+when stop pressed
+forever
+play really_annoying_sound.wav until done
+end
+EDIT: If you just want to know if the stop sign has been pressed, I did create a dector project here:
+http://scratch.mit.edu/projects/BoltTest/2800099
+Would this do?
+Last edited by BoltBait (Oct. 2, 2012 17:48:01)

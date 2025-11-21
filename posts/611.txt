@@ -1,0 +1,1 @@
+You could automatically set it to use your name at the start before the project uploads to ensure that you are first.

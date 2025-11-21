@@ -1,0 +1,1 @@
+Okey doke, I'm kind of having problems selecting objects. Sometimes, if I overlay objects on top of each other, clicking on one object might end up selecting the other. Is there an easier way to select object for moving/editing other than by moving the unwanted object out of the way?

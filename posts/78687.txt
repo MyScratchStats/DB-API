@@ -1,0 +1,3 @@
+@ Lightnin:
+I think it should have both variants:
+The actual autosave and your idea. Because it's like LS97 wrote, famous people or people on the front page do not unshare their projects for fixing bugs and add small changes and the new way of always live update could create bugs, especially when you make changes on graphics and the script uses color sensores

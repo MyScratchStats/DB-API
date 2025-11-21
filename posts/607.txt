@@ -1,0 +1,2 @@
+yep! So every now and again, we take a snapshot of the database on the old site, and pull it over to the new one. But they don't stay in synch: that'd take a ton of work.
+When we move to the new site, we'll shut down both, and export the data from the old, and import it into here, and then we'll start this one up again, and go - onward into the future!

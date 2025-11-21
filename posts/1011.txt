@@ -1,0 +1,2 @@
+Woah, gnarly!
+AFAIK, Django is supposed to sanitize content by default. I wonder if this issue has been reported on other Django platforms?

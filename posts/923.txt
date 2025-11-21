@@ -1,0 +1,8 @@
+I've been playing with the paint editor, and was trying to make a full 480 x 360 sprite, but found you can't just fill the canvas with a certain color or anything. So I tried to make a rectangle the size of the canvas, and turns out you can make a sprite bigger than the available space given, which makes it hard to make a 480 x 360 sprite.
+Also, when you make a sprite the dimensions increase or decrease depending on where it's located. They increase if you move them right and downwards, and decrease going left and up in to the negatives no matter the size of the sprite.
+I was also met with something similar to the disappearing text thing, but instead the sprites disappeared in the stage and costumes section, but not in the editor. So I had to create a new sprite.
+I know this is stated in the paint editor thread, but here's things that would be useful:
+-Undo button
+-Ability to fill canvas or just not make the space unlimited
+-Center of rotation movable
+-Fix the dimensions thing with the sprites

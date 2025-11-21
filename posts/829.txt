@@ -1,0 +1,2 @@
+^title
+It gave the data uniqueness from the control blocks.

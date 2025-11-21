@@ -1,0 +1,7 @@
+I just looked at my Chess game and tried to run it.
+It wasn't working at all.  So, I did a “look inside” and saw that several of the standard blocks were red.
+A few I expected, such as “stop all”.  But, others were a surprise, such as “(Item (1) of {moves v})”.
+I replaced a few blocks and still couldn't get it to work properly.  So, I closed the editor and went back to my profile page.  It was there that I noticed that the thumbnail for my chess game had changed.  Now, I never clicked “save” but somehow the project automatically saved itself!
+This is very dangerous and not at all what I expected.  I did not want my changes to be saved.
+If you are going to keep the web site like this, I don't think I can ever play my own games anymore.  Because if I do, they will be saved when I leave the page.
+Last edited by BoltBait (Oct. 4, 2012 17:48:25)

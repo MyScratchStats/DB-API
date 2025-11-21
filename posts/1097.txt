@@ -1,0 +1,5 @@
+When I clone something I would expect it to show up where the item being cloned is located–it is a perfect copy after all.
+Another idea might be:
+Clone
+[
+mysprite v] at (0), (0)

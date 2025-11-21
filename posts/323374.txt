@@ -1,0 +1,8 @@
+topman101 wrote:
+It Must Of Looked Like This:
+when green flag clicked
+say [Hello!] for (2) secs
+say [I was just invited to test scratch 2.0!] for (4) secs
+say [I'm so excited!] for (4) secs
+This topic is almost two years old! Please don't reply to very old topics, unless it's for a valid purpose. This bug has likely been sorted out by now.
+Last edited by djdolphin (May 14, 2014 22:11:38)

@@ -1,0 +1,7 @@
+Forested wrote:
+Like scrolling kind-of stuff?
+when [ up v] key pressed
+or
+when [ down v] key pressed
+work with scrolling, so they should do with mouse wheel
+They move the page though, so they only really work in fullscreen.

@@ -1,0 +1,6 @@
+Lightnin
+Yeah, I agree - this is a little big, isn't it? :)
+Any thoughts on a good maximum size? Perhaps we should restrict it to 32.
+Or should we just get rid of the ability to set size alltogether?
+And this is only 10.
+Yeah, 32.

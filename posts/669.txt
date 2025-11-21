@@ -1,0 +1,7 @@
+Thanks for all the detailed feedback - I hope it keeps coming, it's very useful. We appreciate it.
+Some responses to your feedback:
+@Lucario621
+- You're right, Undo is missing, and it is definitely on our list - I forgot to add it, but will put that in.
+@LS97
+- There will actually be an eraser tool for bitmap images (ideally we'll be able to get something working on vectors too - but that might not be right away). Basic bitmap editing is still in the works.
+- Tooltips are also on our list - I agree, having them will help make some tools more clear.

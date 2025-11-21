@@ -1,0 +1,2 @@
+I used it in my billion button project, but I don't know if it works.
+One use is to see how many days since something, or to something. Since yesterday was 4565 or something days since 2000, today is 4565 (or something) + 1. and so the number of days since yesterday is the days since 2000 minus the days since 2000 yesterday, or 4566-4565. Which is one.

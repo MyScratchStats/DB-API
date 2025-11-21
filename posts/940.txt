@@ -1,0 +1,10 @@
+Sure, I know that.
+I want a programmitic way to do it.  So that I don't have to tell people to shift-click the green flag to play some of my games.
+I thought we were going to get some block control over turbo mode in 2.0.
+Didn't I see some talk about making custom blocks have a turbo option?  I could even live with that if we aren't given blocks like:
+[
+Turbo mode (on v)]
+and
+[
+Turbo mode (off v)]
+Last edited by BoltBait (Oct. 14, 2012 16:20:26)

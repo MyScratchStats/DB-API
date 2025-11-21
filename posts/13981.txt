@@ -1,0 +1,5 @@
+LS97 wrote:
+It probably cached the number then, and when the cache was recreated the values were recalculated.
+It's possibly an error with the page's Javascript.
+Yeah, it was probably a Cache issue.
+Also, did that “Un-deletable” disappear?

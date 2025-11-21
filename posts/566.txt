@@ -1,0 +1,1 @@
+Maybe while a script is running, maybe you could have a block create a variable while running through the project, and one to delete it afterwards. It would be useful for times if showing times over cloud. Since lists keep on adding on when time is added repetitively, it would be useful for the variables to have the delete and add thing like lists

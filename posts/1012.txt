@@ -1,0 +1,1 @@
+See our (forthcoming, later today?) blog post about update w/out screen refresh. (Basically, atomic on blocks you've built). Still to be implemented, but on the list last I heard.

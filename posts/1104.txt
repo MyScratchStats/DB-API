@@ -1,0 +1,1 @@
+I know Johns been working on font related issues lately. If this is still present in the latest rev of the editor, it'd be good to file as a bug.

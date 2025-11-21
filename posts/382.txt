@@ -1,0 +1,4 @@
+johnm
+This block can be used in conjunction with persistent lists to record the time of events such as when your project is run or when someone breaks the high-score record of a game. Later, you could export the data from Scratch and create a timeline graph (e.g. showing project views per week).
+But it's a good point that it's not as generally useful as most of the other blocks.
+I see. It's not necessarily useful for “telling time”, but rather for using time in context with events, and comparing different times - which I now understand the purpose of since many people on this thread have given examples! It also gives me some inspiration for some projects that I could possibly use the block for…

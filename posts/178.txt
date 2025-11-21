@@ -1,0 +1,4 @@
+jji7skyline
+I really like how the right click has been implemented, to replace the shift-click.
+Would it be possible though, to implement the mouse wheel as well? It's been lacking in 1.4, and the 2.0 update seems a good time to add it.
+Ah yes! This would be really nice. I *think* it's on a ‘to be added’ list somewhere, but I'll check with JohnM about it next time I see him.

@@ -1,0 +1,6 @@
+I love the new subscribe/unsubscribe to topic feature, but there are some bugs.
+The link to a new post says
+example.com
+.
+The webmaster email address is webmaster@localhost.
+Last edited by technoboy10 (Sept. 30, 2012 11:53:41)

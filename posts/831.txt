@@ -1,0 +1,1 @@
+Whenever I click on a sprite in the sprites window, it scrolls the window back up to the top.  This is annoying when working on all of the sprites that are at the bottom of the list of sprites.

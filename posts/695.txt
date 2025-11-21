@@ -1,0 +1,3 @@
+Hardmath123
+It's there, isn't it?
+It's there when I tried it - right click on the list monitor and export is an option.  However, the filename window that popped up had some problems - it defaulted the file name to something strange (rather than the list name) and wouldn't let me set the file type - which was set to “all files”.  However, it did save the list contents in a text file - but the file had no file extension.

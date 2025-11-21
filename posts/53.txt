@@ -1,0 +1,8 @@
+I Can't:
+Delete Projects
+Edit Projects
+Unshare Projects
+Create Projects
+This is on Windows XP using Chrome.
+EDIT: Projects also show up as empty when trying to view. Also, what is the Draft checkbox for?
+Last edited by illusionist (Sept. 8, 2012 21:26:37)

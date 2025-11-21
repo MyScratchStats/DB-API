@@ -1,0 +1,2 @@
+Problem: Whenever I use circles for a picture and switch to another window and try to edit it again, the circles go all over the place. Anyone notice that bug?
+Last edited by Saca312 (Oct. 18, 2012 20:00:12)

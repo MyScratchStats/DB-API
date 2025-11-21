@@ -1,0 +1,5 @@
+mewkid wrote:
+I've been playing around with imported images a little bit, (see latest project,) and I've noticed that the sprite will shrink until it's just a tiny dot, but will only zoom up until a certian point, and then it stops. What's up with that?
+Good question! Can you point us to an example? If you share the project / sprite you were seeing this happen with, we can just go check out the project.
+(Oh but do make sure to “share” it so we can see it.
+Last edited by stymphalianbirb (Sept. 13, 2017 21:13:18)

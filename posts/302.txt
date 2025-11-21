@@ -1,0 +1,17 @@
+Lightnin
+Dinoclor
+I really like the new notification system. It's nice to be able to see previous things that have happened. It's also nice to see when you received a notification. But, what is this gallery called “null”? I have a couple of old messages saying that people commented on it, but it seems to not exist. I get an error page.
+That sounds like a bug to me! “Null” is kind of a programmy term for “nothing”, or “no information.” So if you are seeing a gallery called null, it's a good bet that it's because something is broken!
+Any chance you can tell what gallery those comments used to be on from your notifications on the old site?
+Actually, if you give me the text of a couple of them, I can try to search your old notifications, and see where gallery “null” is supposed to be, and hopefully figure out what's going wrong.
+Sent April 8
+funtrickydude commented on the gallery null 12:19 am x
+Sent March 26
+Toucan96 commented on the gallery null 1:16 pm
+Sent March 13
+brawlman44 commented on the gallery null 2:08 pm x
+rodrigocalix commented on the gallery null 7:25 am x
+pcmags commented on the gallery null 3:06 am x
+Sent March 12
+brawlman44 commented on the gallery null 3:50 pm x
+There are a bunch more of these, but they're basically all the same.

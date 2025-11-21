@@ -1,0 +1,2 @@
+I click on a sprite, then scroll down in the scripts window.
+If I then, click on another sprite, the scripts window updates to the new sprites' scripts and shows the top of them, but the scroll bar of the scripts window is still located at the bottom.

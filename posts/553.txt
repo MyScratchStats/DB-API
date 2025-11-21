@@ -1,0 +1,4 @@
+LS97
+what about maximum 40? I feel that for single-word headers 32 isn't large enough…
+40 probably would be ok… It's somewhat risky, but Scratch is well behaved enough not to abuse it.
+Last edited by wolvesstar97 (Oct. 2, 2012 13:37:50)

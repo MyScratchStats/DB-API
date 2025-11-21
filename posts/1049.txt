@@ -1,0 +1,3 @@
+I'm at work now and on my work computer it is working fine.
+My work computer is using IE8 and Chrome on Windows 7.
+Later today when I'm on my personal laptop, I'll check the JavaScript console and report my findings here.

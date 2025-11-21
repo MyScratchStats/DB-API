@@ -1,0 +1,8 @@
+KawaiiCatGirl- wrote:
+Wow, a ST emmeber made a suggestion!
+This isn't a suggestion, per se, but more of a discussion about ways a planned feature could be implemented.
+I think that if you try to edit a shared project, a popup should come up saying, "WAIT! Any changes you make here will be public the minute the project is saved. It is recommended that you either unshare the project or edit on a separate copy that you share later.
+Then it has a ‘Edit New Copy’ button, an ‘Unshare this Project’ button, and a ‘Continue’ button.
+The first would open a copy of the project named ‘<Project Name> Update x’. If the project name already had ‘Update #’ at the end, it'd just increment a number.
+The second would unshare it and allow you to edit.
+The last… Well, it'd just let you edit as you do now.

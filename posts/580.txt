@@ -1,0 +1,1 @@
+The speech bubble bug annoys me… If you save to a local file and reopen it they should go away.

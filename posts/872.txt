@@ -1,0 +1,4 @@
+Lightnin
+Great illustration, BoltBait! It's so helpful to have everything you are seeing laid out with comments.
+I suspect we are still having font selection issues. I think we need to sit down with our Windows machine and nail down what's happening. I'll let John know.
+When will comments be implemented?

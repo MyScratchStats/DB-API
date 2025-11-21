@@ -1,0 +1,12 @@
+Lightnin wrote:
+ProgrammingFreak wrote:
+I've noticed that when you try to move/edit scripts while the green flag is active, everything moves very slowly. The solution is just to stop the project from playing and then edit, of course. I thought this was interesting though that it lags so much more when this happens.
+That is interesting, and not something I've seen yet. Can you link us to a project that demonstrates this? We'll hit green flag and then start editing, and see if we can see what you do.
+Most any program that has lag itself will cause lag in the editor.  For example
+http://scratch.mit.edu/projects/11852885/#editor
+Click a bunch of times to get the wave moving, then try to move some blocks.
+Even in this simple project, the editor lags more as the clones load.
+http://scratch.mit.edu/projects/11721652/#editor
+Turn the clone know on this project up to 300, then go in the editor.  You should see significant editor lag.
+http://scratch.mit.edu/projects/12145121/
+Last edited by scubajerry (Sept. 19, 2013 23:35:10)

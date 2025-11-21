@@ -1,0 +1,8 @@
+This thread is for notices about updates to the Scratch 2.0 Studio / Project Editor. It's a closed topic, so only ST can post in it. If you want to discuss an issue or glitch related to an update on this thread, please feel free to start a new discussion thread!
+You'll notice that each update has a version number (e.g. “v125”). This version number is printed in the
+JavaScript console
+of the browser when the Scratch 2.0 Studio is loaded. For a short time after a new version is released, you may need to
+clear your browser's cache
+to force the latest version to be loaded. However, most people don't need to worry about this, since the browser cache will update itself in time.
+Scratch On!
+Last edited by Lightnin (Oct. 4, 2012 13:20:53)

@@ -1,0 +1,1 @@
+Of course, it might not really matter where the clone shows up if the programmer puts a GOTO block and a SHOW or HIDE block in the CLONE STARTUP script.

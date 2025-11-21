@@ -1,0 +1,2 @@
+This was something we considered. However, for really new users, we think it's simpler not to have to think about save.  Google docs works in a similar way - whatever you do is saved automatically.
+However, it will be important to have undo - and that's on our list of stuff to be done. I'm hoping a good “undo” function, and a revision list that allows you to revert to previous revisions will hopefully ease the negative aspects of autosave, since they make it easy to throw away any changes that haven't worked out.

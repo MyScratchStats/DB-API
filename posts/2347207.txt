@@ -1,0 +1,4 @@
+cookies001 wrote:
+i use linux mint and it saves it as sb2 and 1.4 can't read sb2 and says “could not read project; file may be damaged: (bad header)” can anyone help me?
+Please don't bump old topics - that's called necroposting. Check the date of the last post. That was 4 years ago! If you need help, just make a separate topic/thread in the appropriate forum.
+Thanks!

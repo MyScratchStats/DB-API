@@ -1,0 +1,2 @@
+Hey, how goes the Bucketfill function? I tried it on one of my projects and it failed to fill in closed spaces properly (save for a few areas) and transparent fill causes my browser to freeze.
+http://alpha.scratch.mit.edu/projects/10001942/

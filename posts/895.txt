@@ -1,0 +1,18 @@
+Champ99
+cheddargirl
+During the drawing process, there one basic tool that I felt was missing: a bezier/line tool. If it's currently not on the list of features to be added, I have to highly insist that it should be added. I usually use the line tool very heavily in the Scratch 1.4 paint editor - my
+drawing tutorial
+here shows how I use the line tool over freeform pen in a raster editor; given that I've gotten a lot of positive feedback on that tutorial I think having a bezier tool (or at least a tool that allows users to pre-determine the position of the nodes) is necessary.
+I may be misunderstanding the use case here - but currently you can create straight lines on any angle by using the pen tool + Shift. (Note there is currently a bug if you release shift before the mouse, so when you're ready to end your line release the mouse, then shift. A fix for this is in our next push)
+Ah, sorry if I wasn't clear.
+A bezier tool is a path tool where you predefine the path by setting the nodes in certain places. This is not the same as with freeform drawing in a vector editor because you adjust the nodes after the line in drawn, not before. A good analogy to this is a connect-the-dots image, where the nodes are like the dots and lines are drawn between them. This YouTube video
+http://www.youtube.com/watch?v=MjQl1cl2184
+shows how a bezier tool works.
+The bezier tool is actually common to both raster and vector editors (GIMP, for example, has a bezier tool). However, unlike with vector editors, the bezier process can be easily imitated in a raster editor using the straight line tool via the process I described in the drawing tutorial I linked to earlier. The line tool in the vector editor does not work in the same way since there is no way to join the end nodes of two straight lines together.
+Champ99
+cheddargirl
+One thing I haven't seen yet is the ability to copy costume images. Is that feature missing, or is it hidden somewhere and I can't figure it out?
+That's hidden. We need to do something about that. If you use the stamp tool on the top nav of the project editor, you can duplicate a costume. Not sure if I explained that well…let me know if not.
+Whoa, that's… not very intuitive for me, I thought that the stamp was only for duplicating sprites! My first thought was that the functions for duplicating/removing costumes and sprites would be in different locations, it's just so weird having a single function on the top there not knowing what they're for. Maybe the functions should be separate, with the duplicate/remove function for sprites should be on top of the sprite section and the duplicate/remove function for costumes somewhere in the costume tab.
+Ah, another question: So far, I can only import images as costumes, but I can't figure out how to import an image into the editor. How do I import images in the editor? Or is that not doable yet?
+Last edited by cheddargirl (Oct. 13, 2012 02:29:32)

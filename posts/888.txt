@@ -1,0 +1,16 @@
+cheddargirl
+Okay, so I had some chances to play around with the vector editor. Here's one that I did (the one on the left was made in one of the older paint editor editions).
+http://alpha.scratch.mit.edu/projects/10001942
+Thanks for taking the time to test it out and write up your feedback! It's really helpful. Oh and seeing what you were able to create was great too.
+cheddargirl
+During the drawing process, there one basic tool that I felt was missing: a bezier/line tool. If it's currently not on the list of features to be added, I have to highly insist that it should be added. I usually use the line tool very heavily in the Scratch 1.4 paint editor - my
+drawing tutorial
+here shows how I use the line tool over freeform pen in a raster editor; given that I've gotten a lot of positive feedback on that tutorial I think having a bezier tool (or at least a tool that allows users to pre-determine the position of the nodes) is necessary.
+I may be misunderstanding the use case here - but currently you can create straight lines on any angle by using the pen tool + Shift. (Note there is currently a bug if you release shift before the mouse, so when you're ready to end your line release the mouse, then shift. A fix for this is in our next push)
+cheddargirl
+I think the most difficult thing I encountered using the vector editor is trying to simply color something. Some people prefer doing line art first and then use the (raster) fill bucket to color things in. The vector fill bucket doesn't work this way, and to a certain degree, this makes the coloring issue difficult and more lengthy: I either have to learn to draw using closed objects that are colored beforehand, or I have to create separate color shapes to conform to the lineart. (I'm not sure if I explained myself well, but I think the best way to explain is by challenging others to remix my project and color the image on the right).
+The paint bucket is definitely a work in progress…it is a difficult one to get right. We want to get it to feel and act as close to bitmap paint bucket as possible. Hopefully we'll have some iterations for everyone to test out soon.
+cheddargirl
+One thing I haven't seen yet is the ability to copy costume images. Is that feature missing, or is it hidden somewhere and I can't figure it out?
+That's hidden. We need to do something about that. If you use the stamp tool on the top nav of the project editor, you can duplicate a costume. Not sure if I explained that well…let me know if not.
+Thanks!

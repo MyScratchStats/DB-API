@@ -1,0 +1,1 @@
+Works for me on both Firefox and Chrome, using Lubuntu.

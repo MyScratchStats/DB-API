@@ -1,0 +1,3 @@
+Youch! Can you give us some details about your browser / operating system / Flash version?
+If you are logged in, autosave should work - we'll have to fix that one.
+As to export to local file - what exactly happens (or doesn't) when you try?

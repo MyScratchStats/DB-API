@@ -1,0 +1,5 @@
+illusionist
+Clones should go to their creator upon creation (keep it the way it is now)
+No, clones should inherit
+everything
+from their parents: pen color/shade/size, position, direction, speech bubble, temporary variables' current values, size, volume, current answer from ask block, etc.

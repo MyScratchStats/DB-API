@@ -1,0 +1,6 @@
+BoltBait wrote:
+How can I “look inside” of one of my published projects without having it automatically save?
+I want to see the value of some variables when I'm running the chess game, but I don't want to publish it with my internal variables showing?
+Thanks.
+EDIT: Should I “unshare” my project before I look inside?
+This belongs to Questions about Scratch, not suggestions.

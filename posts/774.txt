@@ -1,0 +1,4 @@
+BoltBait
+The development team needs to buy themselves a cheap Windows PC.  Install Windows 7, IE8/9, Chrome, and Firefox on it.  You can probably get one for $200 or less, new.
+Yep, already done.
+We do have a platform to reproduce, it's just that we don't check it very often so far. We'll have to start giving new changes a once over with it.

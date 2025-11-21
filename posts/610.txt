@@ -1,0 +1,1 @@
+There is a script that works, but only to show messages. If the mouse is in a certain region, then show message, If the mouse is in a certain region and mouse is down, then show message2. That, or make the message ghost effect 100 at the start.

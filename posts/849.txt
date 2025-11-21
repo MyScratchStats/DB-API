@@ -1,0 +1,5 @@
+I tried getting my Chess game working and I'm not having much luck.
+I can't figure out what's wrong.
+So, I'm thinking that I may need to “unshare” it in order to figure out what's wrong.
+Edit:  Figured it out.  I had replaced a bad (red) “stop script” block with a new “stop all” block by mistake.
+Last edited by BoltBait (Oct. 11, 2012 22:23:41)

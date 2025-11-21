@@ -1,0 +1,4 @@
+- clones can't copy themselves (EDIT: I now have a thread detailing this)
+- the new block colors are just yucky and unneeded
+I see this was fixed. Thank you
+Last edited by illusionist (Oct. 6, 2012 09:14:04)

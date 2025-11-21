@@ -1,0 +1,3 @@
+NeilWest
+I'll try vector sizing out once the paint editor becomes usable. In the meantime, anyone know any vector-compatible Paint.NET plugins?
+Just use Inkscape for now. Free and open source.

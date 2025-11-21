@@ -1,0 +1,34 @@
+v 168
+A few highlights:
+- screen mode buttons replaced by full screen button plus a command to toggle stage size in “More” menu
+- paint editor now centers costume while remembering the rotation center
+(also: costume center computed from viewBox of imported sprites and imported bitmaps resized to fit stage)
+- “run without screen refresh” checkbox in “make a block” dialog to replace “all at once” block
+All changes:
+- change save feedback to “Last saved at hh:mm”
+- add “duplicate” back to costume menu
+- in Scenes tab, use icons below “New scene:”  instead of the pull-down menu
+- make Stage area a lighter gray
+- try Stage thumbnail at the top
+- remember the tab independently for stage/sprites; stage starts with scenes tab selected
+- make top bar a few pixels taller (and fix layout)
+- make share button gray, leave remix button orange, no icons on either
+- add stage size toggle command to “more” menu
+- add delete button (x) to costumes/sounds/scenes/backpack items
+- new block dialog: add checkbox for “run without screen refresh”
+- new block dialog: add word “options” after arrow, move down a bit, and squeeze vertical space
+- hide the delete button if only one costume/scene
+- bug: ‘mouse-pointer’ and ‘edge’ args confused with sprites named ‘mouse’ and ‘edge’ when reading old projects
+- bug: hidden sprites do not respond to “touching mouse”
+- bug: whirl graphic effect is off-center when viewing a project in full screen mode
+- fix stage top color in playerOnly full-screen mode (should be black)
+- bug: draggable sprites responding badly to sprite movement blocks while being dragged
+- bug: Shift-Click Green Flag doesn't enable Turbo Mode
+- bug: “stop all” block should stop sound clips that are running
+- resize imported images (e.g. photos) to fit stage
+- implement “run without screen refresh” for procedures
+- make old warp block work without warping (so old uses will work, but not at warp speed)
+- handle centering of SVG in editor while retaining the costume center
+- set costume center of imported SVG's based on viewBox or width/height attributes of top-level SVG
+- increased scroll wheel speed
+- set “saveNeeded” flag when block parameters are editor or user drag-n-drop on stage

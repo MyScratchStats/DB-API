@@ -1,0 +1,5 @@
+Lightnin
+scimonster
+Chromium's fault. Works fine in Firefox and Opera.
+Ah, true - doesn't happen when I try it with FF. Good info! Want to comment it on the bug? (linked above)
+Sure.

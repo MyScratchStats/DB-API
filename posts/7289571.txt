@@ -1,0 +1,6 @@
+CT-OfficialScratcher wrote:
+I agree! Necroposting isn't in suggestions.
+Dude, this was implemented a long time ago, and this was in Bugs and Glitches.
+They meant reporting values.
+Edit: Also, if you don't understand what they mean by this, before v419 (yes I'm being serious) of Scratch 2.0 (which came after it had released), you had to do something like show a variable monitor and then set it to the value you want to be able to see it because you could not click on the reporters or booleans to see them until then
+Last edited by medians (June 3, 2023 22:36:54)

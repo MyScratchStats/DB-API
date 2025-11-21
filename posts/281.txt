@@ -1,0 +1,2 @@
+Deleting a gallery doesnt seem to be working… actually, there isnt a dialouge for deleting it at all!
+Last edited by wolvesstar97 (Sept. 27, 2012 22:32:56)

@@ -1,0 +1,44 @@
+v. 172
+Changes:
+- go back to having tabs same for sprite and stage, default “scripts”
+- change to “Scratch days” (days since May 15, 2007)
+- make “minute” default (singular)
+- ordering: current minute, Scratch days, Scratch id
+- switch “timer” and “reset timer”
+- “turn small stage on”
+- remove x/y scroll
+- default backdrop name: ‘backdrop1’
+- default name for sprite is “Scratch Cat”
+- costume names: ‘costume1’, ‘costume2’
+- default of “go to” is “mouse-pointer”
+- leave other sprite/mouse/edge arguments blank
+- fix positioning of by-line for projects when not logged in
+- “create clone” - default to “myself” (but not for stage)
+- new procedure hat edge color from Natalie
+- new colors from Natalie
+- make “set size to” update w/ current size
+- implement clone of “myself”
+- bug: drum sounds of zero beats don't play (but did in 1.4)
+- disabled browser zooming for now
+- implement “currentBackdrop” reporter
+- bug 94: Drums played for zero beats are silent
+- bug 97: Sprite direction reporter gets into high-precision state
+- bug 109: image upload filter not allowing .jpeg
+- bug 116: Zero Size Sprite not Set To 5
+Category reorganization:
+Sprite Looks:
+say/think
+show/hide
+switch costume to _
+next costume
+switch backdrop to _
+backdrop _ (menu: #, name with name as default)
+- put all reporters at bottom:
+- costume #, backdrop name/#, size
+Stage Looks:
+switch backdrop to _
+switch backdrop to _ and wait
+next backdrop
+backdrop _ (menu: #, name with name as default)
+Events:
+- when backdrop switches to _

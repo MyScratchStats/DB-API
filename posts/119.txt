@@ -1,0 +1,3 @@
+Chrischb
+I added a character to my password two or so days back and found that when I logged in on here, I needed to use the previous version (the one without the new character).
+Ah, quite so! The reason is that the database this site uses is taken from a snapshot made last Tuesday, around 1:30 am EST. So any changes made to the site after that (like to your password), it won't know about. Glad you figured it out and were able to login!

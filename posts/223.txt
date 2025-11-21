@@ -1,0 +1,1 @@
+Just pointing out that the quote button in the edittools should ask for the person to quote (and not include the equals sign if blank is given).

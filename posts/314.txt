@@ -1,0 +1,4 @@
+The cloud list blocks turn red spontaneously. Though it's not a real problem and doesn't interfere with the code, it's distracting.
+There should be some kind of cloud broadcast, because it's slow to constantly download the value of a cloud variable.
+Maybe you could release the APIs? Then people could write third-party apps which can communicate with Scratch programs via the cloud data. I don't suppose you're planning to implement the low-level remote sensing connections protocol, so this is a nice way to be able to do it.
+When you're in the editing mode, you should be able to test your project with an arbitrary user ID.

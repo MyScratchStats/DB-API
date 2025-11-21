@@ -1,0 +1,2 @@
+Whenever I try to click from the homepage to the forums to making a project, I get a popup dialouge that says “Are you sure you want to leave this page?” with the content as “null”.
+Annoying.

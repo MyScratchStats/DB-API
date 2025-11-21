@@ -1,0 +1,5 @@
+BoltBait
+IE is the most used web browser in the United States and Canada.
+http://en.wikipedia.org/w/index.php?title=File:Countries_by_most_used_web_browser.svg&page=1
+When designing a web site, I always check to make sure it works on the top 5 browsers for desktop and 2 mobile browsers.
+That's just sad.

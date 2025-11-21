@@ -1,0 +1,4 @@
+CT-OfficialScratcher wrote:
+I don't believe we have export, so support.
+There is export, but only inside of the editor.
+And support since this can help with long list items (this or allow list items to go into multiple lines again).

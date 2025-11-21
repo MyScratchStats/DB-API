@@ -1,0 +1,1 @@
+As Lightnin has mentioned, the paint editor is going to be completely redone soon, so worrying about the current version probably isn't that important.

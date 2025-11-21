@@ -1,0 +1,1 @@
+I've definitely been experiancing the ‘null’ problem. Seeing as this is till in beta, they probably haven't got all the data hooked up or something.

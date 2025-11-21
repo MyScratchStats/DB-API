@@ -1,0 +1,2 @@
+There's a little floaty thing that floats on the right edge of the page opposite the Feedback tab, and when clicked, it seems to show debugging info.
+What is this?

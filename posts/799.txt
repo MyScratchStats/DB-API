@@ -1,0 +1,4 @@
+Lightnin
+Yech! Well, that's a bad flash bug. You might try checking to see if you have the latest version, and updating otherwise (in case they've fixed this).
+So, our site can ask Flash to do stuff, but doesn't really have the power to BSOD it - that it can only do to itself. Hopefully Adobe will / has fixed it. But it would be good to know how many others are experiencing it.
+Thanks, hope you find a solution

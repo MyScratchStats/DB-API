@@ -1,0 +1,2 @@
+I didn't actually get the bug in alpha, only in 1.4 a couple of (a lot of) times.
+IE needs a different format for embedded fonts, different from the ttf format used with other browsers, could that be it?

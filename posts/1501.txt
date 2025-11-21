@@ -1,0 +1,7 @@
+v 175 Changes:
+- change tab name from “Scenes” to “Backdrops”
+- add “next backdrop”
+- replace “backdrop name/#” (menu) with two separate reporters
+- stage has both reporters; sprites have just “backdrop name”
+- both blocks have monitor checkboxes
+- re-order blocks in sensing category

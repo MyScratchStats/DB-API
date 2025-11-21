@@ -1,0 +1,1 @@
+True, especially 1 pixel sized sensors. I've experienced this with 1.4 as well, when the sprite is rotated in the Flash player, the antialiasing breaks the colour sensing.

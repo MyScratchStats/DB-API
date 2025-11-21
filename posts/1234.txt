@@ -1,0 +1,24 @@
+v. 165 Changes:
+- player bug: background shakes when running some popular game projects
+- player bug: some sprite costumes slightly cut off when sprite at non-integral position
+- tips window tweaks (1-pixel layout tweak, now calls “tip_bar_api.open”)
+- new Arabic translation file
+- changed right-to-left mechanism for block evaluation
+- re-order block args when switching between LTR and RTL languages
+- colors:
+- swapped Events and Control
+- use Paula's color for Pen
+- changed Stage area of library (center stage on gray background, named “Stage”)
+- change color of selected label field in new sprite dialog
+- use “Verdana” as block font on Windows
+- costumes/scenes/sounds tab:
+- tweaks to thumbnail layout
+- added costume/scene numbers
+- many teaks to overall layout (saved 12 pixels; it it too narrow now?)
+- top bar:
+- removed “Save” button
+- moved window resize buttons to left of tools
+- new undo/redo icons from Natalie
+- moved save feedback string to top bar
+- add “Share” button next to “See project page” when viewing a private project
+- layout tweaks

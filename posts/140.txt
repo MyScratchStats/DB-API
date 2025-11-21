@@ -1,0 +1,5 @@
+angelica101
+Awesome!! Thanks for letting me check it out! One question- How do I delete a gallery, and how do I export a sound, but not on a local file?? And how can I reverse a song?
+I don't think deleting galleries has been added yet - but I'm sure they'll add that before the final release.
+You can export a sound by going to the “sounds” category, and then right clicking on the sound icon, and select “export to local file”.
+You can reverse a sound by selecting “edit” > “select all”, and then “effects” > “reverse”. That's what seems to do the job best - tell me if it doesn't work.

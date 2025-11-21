@@ -1,0 +1,2 @@
+However, for chatrooms there might be hundreds of people to enter O_O
+So it's possible, but not efficient. For collaborations, it's easier because the number of people is usually fixed.

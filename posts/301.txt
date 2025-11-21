@@ -1,0 +1,12 @@
+Looks great so far, thanks for letting me test! My first impressions are:
+-Love the “Scene” blocks in events.
+-Nice to build blocks without BYOB.
+-All I can say here is “YAY CLONES!!”!
+-I was a bit disappointed that there was no “Color of Pixel (X), (Y)” block, like Panther has. It would be insanely useful for color mapping, raytracing, texturing, etc.
+-It's nice to have “Ceiling” and “Floor” blocks. You can make your own, but…
+-A nifty feature that is slightly unnecessary, but still fun is that you can see your soundtrack play.
+-About the paint editor: Is it one of the bugs or are there just no snip/stamp tools? I know there's something similar, but what if you want to, say, move an exact rectangle from the scratch cat?
+- The pencil tool in the paint editor is truly awesome. I've been waiting for one of those in scratch for several years now.
+Anyways, I could go on and on about more minor aspects, but I want to keep exploring the interface
+Thanks so much scratch team!
+(By the way, is it all right if my brother WATCHES me scratch in 2.0? Maybe points out some things about it for testing?)

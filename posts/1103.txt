@@ -1,0 +1,1 @@
+This does look like a bug.  I'll add it to  the bug tracker. Thanks for reporting!

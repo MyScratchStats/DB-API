@@ -1,0 +1,3 @@
+I'm glad that you like the new scene features! Thanks for sharing your comments and questions.
+During the design process, we thought about showing all of the scenes (in the area below the stage). But, to be consistent with sprites, each scene would then have its own scripts. (That is, when you click on a scene within the list of scenes, the scene's scripts would show on the right side of the screen.) We decided it is better for the stage (not individual scenes) to have scripts, so that you can have some “global” control. But, as you point out, there are some drawbacks to this choice.
+Regarding triggering a scene from a sprite…. In many games, you want to trigger a new scene when a sprite reaches a certain goal. It's easiest to do that from one of the sprite's scripts.

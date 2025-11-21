@@ -1,0 +1,3 @@
+ProgrammingFreak
+I've noticed that when you try to move/edit scripts while the green flag is active, everything moves very slowly. The solution is just to stop the project from playing and then edit, of course. I thought this was interesting though that it lags so much more when this happens.
+That is interesting, and not something I've seen yet. Can you link us to a project that demonstrates this? We'll hit green flag and then start editing, and see if we can see what you do.

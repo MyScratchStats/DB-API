@@ -1,0 +1,1 @@
+Good idea Jon! I didn't notice this, but it's definitely an important feature. It's arguably the parts of Scratch that make it the easiest to change and interact with that are the most important - whether it's an easy way to add list items, or just double clicking a reporter block to find out what the value of it is - all very useful.

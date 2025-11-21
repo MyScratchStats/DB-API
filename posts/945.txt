@@ -1,0 +1,4 @@
+Right now, clicking the “see inside” button is not working.
+It's like the button is not hooked up to anything.  I click it and nothing happens.
+Has the editor been taken offline for some reason?
+Last edited by BoltBait (Oct. 14, 2012 18:36:23)

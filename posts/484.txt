@@ -1,0 +1,8 @@
+Lightnin
+Yep!
+In terms of “visibility”, projects have two states:
+1. Visible only to you. This is how projects start out.
+2. Visible to everyone. This is how projects are after you've shared them.
+There's no way to make a project private to to you and anyone(s) else. That'd break our security model, I'm afraid. We depend on openness.
+So will there be no collaborations?
+Or will they have to be public?

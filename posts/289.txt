@@ -1,0 +1,3 @@
+Well, the login page has been accessible without passcode for a while now
+Good thing it's been fixed
+Last edited by jji7skyline (Sept. 27, 2012 21:17:09)

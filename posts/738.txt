@@ -1,0 +1,4 @@
+Hardmath123
+For the record, just speaking for myself, permanence is often scarier than free experimentation. When you have a big project which you want to add a new feature to, you're always calmer making the big change if you knew you could always go back if you messed up. And I mess up a lot.
+I think this is remarkably well said and the very key to the argument.
+Adding a feature that decreases the chances of losing small parts of a project while heightening the chances of losing its entirety.

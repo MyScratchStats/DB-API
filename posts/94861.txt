@@ -1,0 +1,3 @@
+Yeah, this can easily be made with a local list of the costume names:
+(item (costume #) of [costume names v])
+Last edited by ProdigyZeta7 (July 28, 2013 22:20:31)

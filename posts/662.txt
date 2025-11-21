@@ -1,0 +1,7 @@
+The transition to vector is really nice and Flash is a good opportunity to make this step. However I feel like it will take some time to adapt to a new style of painting in Scratch, especially since some standards of vector editors have been missed out:
+When (in the future) a non-vector image is imported, how will one be able to edit it, since there is no erase tool?
+Also, clicking on the transparent background will the arrow should clear the selection of any item.
+The pen icon is cool, but a hollow circle for larger pen sizes would really help. The same goes for a precision pointer when inserting shapes.
+The icons are also pretty ambiguous (especially those that appear on a selection), so tooltips would help.
+The shift clicking to change the behaviour of a tool is a great idea, but should be made more obvious (I had a hard time finding lines). There are also bugs with that, but I won't go into them.
+And then. How does one change the colour of the background?

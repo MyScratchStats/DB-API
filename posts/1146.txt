@@ -1,0 +1,6 @@
+Thanks for the replies about where the clone should go.
+About “clone me” or “clone self” is a different “clone startup” hat needed, like that one below?
+Vista4563
+Keep in mind the “clone startup” block would also have to be modified to keep up with the new blockspecs.
+[clone {clone ?} startup]
+Last edited by natalie (Oct. 18, 2012 17:25:59)

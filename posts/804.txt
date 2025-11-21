@@ -1,0 +1,2 @@
+Being able to access scene changing scripts from other sprites means that less broadcasts can be used which also means cleaner scripts.
+The idea of showing all the scenes instead of just the current one is actually very good

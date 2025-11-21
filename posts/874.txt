@@ -1,0 +1,2 @@
+Thanks for everyone for sharing their thoughts! We're thinking we'll start out with 5 (partly because there's not going to me that much screen real-estate available for tags on the project page). But if a lot of people feel that's way too few after we go live, we could consider raising the threshold to something higher, provided we can find a good way to show them.
+(The old design used a sidebar with infinite expansion - but right now we're thinking of putting them somewhere near the notes on the new project page.)

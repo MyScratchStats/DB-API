@@ -1,0 +1,3 @@
+I understand that Scratch is not designed to run on the iPhone, however…
+I was on vacation over the weekend and wanted to check on the issue I brought up in the forums.  The only internet I had was my iPhone.  Now, I could read the messages, but when I clicked on the “login” link it wouldn't prompt me for my username/password.
+In my opinion, this should be fixed to allow iPhone access in the forums.

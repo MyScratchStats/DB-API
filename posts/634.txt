@@ -1,0 +1,6 @@
+scimonster
+Lightnin
+Yeah! No settings yet.
+I don't recall exactly what we're going to put in there. Perhaps the ability to set a different default sprite, and maybe some other things (preferred language). But once we populate it, we'll certainly post!
+It should certainly have an option to change your country, password, email, icon.
+And featured project on the user page. I'm kinda sick of seeing just the newest one all the time.

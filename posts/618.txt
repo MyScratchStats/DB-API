@@ -1,0 +1,1 @@
+The problem I see with this idea is that it would be difficult to manipulate all of the temporarily created variables with currently existing blocks. In my experience, anything you would need lots of variables for can usually be done with just a simple list (or a few lists in some cases).

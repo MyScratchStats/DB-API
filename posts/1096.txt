@@ -1,0 +1,2 @@
+It sounds like “clone self” is a possibility for addition to the block. Would that be enough– or are there related changes that would need to be made?
+Another question is what you think of where the clone is positioned? Currently the clone by default takes the position of the cloner (rather than the sprite being cloned). Which do you think new users of clones will expect?

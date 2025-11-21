@@ -1,0 +1,5 @@
+It Must Of Looked Like This:
+when green flag clicked
+say [Hello!] for (2) secs
+say [I was just invited to test scratch 2.0!] for (4) secs
+say [I'm so excited!] for (4) secs

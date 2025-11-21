@@ -1,0 +1,4 @@
+stevetheipad wrote:
+What's the deal with the 2.0 editor thing where people can use javascript to get to it? Can you limit that? If so, why don't you?
+It's actually JSON, JavaScript Object Notation, not JavaScript; but I would be a little annoyed if that capability was removed, I use it often.
+I realize I'm bringing one of the oldest posts ever back to the front

@@ -1,0 +1,1 @@
+The code shouldn't be hard to implement as we can already do this in the editor mode.

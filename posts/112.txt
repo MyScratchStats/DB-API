@@ -1,0 +1,11 @@
+scimonster
+Lightnin
+scimonster
+Lightnin
+scimonster
+Is it possible to access the source of this site?
+Not yet. It's likely we'll release it once it's finished, but not a sure thing.
+It would be really weird for me if with the release of 2.0 people can't see the source anymore. Like, Scratch has always been OSS.
+I don't think it was right at the release of the website, but I could be wrong about that. Anyway, I think we will probably still release it under and FOSS license. The stuff with Scratchy Scratch making their own site kinda rattled us a bit, to be honest.
+If it was someone besides SSoS, would it have bothered you?
+No, not really (as long as it was clear that it wasn't “Scratch”) If that kind of thing bothered us much, we probably wouldn't have released the source code under a free license. The part that bothered us about the SSoS site was the content that attacked Scratch Team and members of the community.

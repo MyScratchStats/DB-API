@@ -1,0 +1,13 @@
+TW301 wrote:
+How do I incorporate this code into
+set [ strength] to [ ((12 sided dice) / (4 sided dice))]
+It just keeps coming up as infinity…..
+Its starting to get very irritating, as I have tried many different ways of changing the code.
+-TW301
+mathfreak231 wrote:
+TW301 wrote:
+Im trying to make a game which will determine the attributes of a character (strength & skill) and i am not sure on how to round the overall score down to one significant figure (no decimal place). It would be a great help if someone has been in this position before and would be able to help solve this problem. It is currently very annoying and it is for a project i am currently working on which needs to be completed ASAP, so if someone could get back to me as quick as possible that would be amazing!
+Many thanks
+-TW301
+([floor v] of (score))
+Also please be careful when bringing up a two-year-old topic.

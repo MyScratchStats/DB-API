@@ -1,0 +1,4 @@
+technoboy10
+^title
+I'd like to follow people, but the follow button doesn't seem to work.
+Oops, it did at one point. Must've gotten broken in the recent update. That's a bug - thanks!

@@ -1,0 +1,6 @@
+Usually it does, but I just did a “Clean up” scripts and a horizontal scroll bar did not show up even though my scripts were off the screen to the right.  I couldn't scroll over to complete my editing of that particular sprite.
+Clicking another sprite and then back again fixed the problem.
+Here's a picture:
+Full sized image:
+http://boltbait.com/images/NoScrollBar.png
+Last edited by BoltBait (Oct. 11, 2012 18:59:58)

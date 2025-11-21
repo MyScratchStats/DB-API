@@ -1,0 +1,12 @@
++1 This would also allow for recursion and recursive scripts, like the following (s is a local var):
+when cloned:
+change s by -1
+turn left 10 degrees
+pen down
+move s steps
+create a clone of self
+move s * -1 steps
+turn right 20 degrees
+move s * 0.5 steps
+create a clone of self
+move s * -1 steps

@@ -1,0 +1,11 @@
+kayybee
+parcheesidude
+One more thing. It also might be nice for the clones to be able to have identities.
+it's possible. just make a local variable called ID and a global variable called whatever:
+greenflag:
+set the whatever to 1
+clone startup:
+set ID to whatever
+change ID by 1
+They'll each have their own variable called ID which contains their ID…
+True, but how can another sprite tell that individual clone what to do?

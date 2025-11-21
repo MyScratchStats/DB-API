@@ -1,0 +1,1 @@
+%b is the token to add a boolean insert in a block. %n is numbers, %s is text, %v and %l are variables and lists, %c and %C are colors, %S is sprites, etc. Since variables are actually just blocks with dynamic content, if you set their name to a valid blockspec it'll try to render. Ideally they would implement some escape token for %, like &amp; or something.

@@ -1,0 +1,9 @@
+cheddargirl
+scimonster
+Oh nice. There were
+some RSS feeds
+on the old forums, but not for specific topics.
+You use Aurora? Cool. I would, except i can't figure out how to install it from a tar file.
+Use a fancy free decompression program like 7-Zip?
+But I'm curious - I got Aurora on my computer via .exe file installer file. Where the heck did you get a tar file?
+They don't provide a .deb. They have an executable, but it seemed to run the stable that i already installed, not the alpha. I'm using Lubuntu.

@@ -1,0 +1,9 @@
+savaka wrote:
+Lightnin wrote:
+scimonster wrote:
+Is it possible to access the source of this site?
+Not yet. It's likely we'll release it once it's finished, but not a sure thing.
+Huh? I'm staring at the source code rught now. You can just use your browsers View Source thing to see the HTML.
+That isn't the complete code; it's only the code for that page and doesn't allow you to set up a local copy of Scratch. Besides, this topic is
+really old
+.

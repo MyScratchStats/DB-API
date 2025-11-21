@@ -1,0 +1,8 @@
+I have a bug report for the main project editor. (I'm not totally sure where to put it, so I'm just posting it here for now). It's actually on the behalf of a friend of mine who is hacking to access the project editor (via the certain publicly accessible URL).
+OS: windows xp 32-bit service pack 3
+Browser: chromium 24.0.1290.0 (build v. 160633)
+Flash version: 11.4.402.265
+The problem is that the Lucida Grande font is appearing for him in aliased form. Here's a screenshot:
+http://i.imgur.com/kk227.png
+. He thinks that the correct font should be Verdana (the one used in Scratch 1.4), and it should be anti-aliased (even without any “cleartype” setting on his computer enabled). Also the cloud symbol icon is not appearing for him at all in any of the cloud data features.
+Last edited by Lucario621 (Oct. 10, 2012 22:32:41)

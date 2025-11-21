@@ -1,0 +1,3 @@
+wolvesstar97
+It's a flash error- without clicking on the actual project, it doesn't sense that you are using it and not trying to scroll. However, with the new green flag thing, it should be fine, I guess it's Linux. I dont have it, so I cant test.
+Ah, I should clarify: this happens to me even when I have clicked the flash / scratch project. The project does get the keystroke event, but so does the browser. When the expected behavior would be that only the project gets the keystroke event.

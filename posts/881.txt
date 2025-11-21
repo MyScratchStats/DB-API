@@ -1,0 +1,3 @@
+Thanks for the screen shot, BoltBait. Someone else just pointed out the misplaced text in block arguments today on Windows. I'll look into it. Not sure about unbolding the font on blocks. When I've tried that before it became hard to read the white text on the lighter colored blocks, but its worth a try.
+In any case, all of these problems are better than having all the block labels disappear entirely, as someone in another thread thread reported last week (now fixed, I hope). Bad text is much better than no text… :-)
+– John

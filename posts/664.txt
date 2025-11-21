@@ -1,0 +1,40 @@
+Those of us who were here first might remember there was a block called “clone me” that was replaced by “create clone of: sprite”. While that removed the need for a sprite to check if it is not a clone before it makes a copy, it created a problem:
+“clone me” would always copy the object it was put in.
+but “create clone of: sprite” always creates another copy of the original parent sprite.
+- - - - - - - - - - -
+Example:
+If I first clone this sprite:
+resulting in two:
+then I change the second one to a different costume:
+and then the second sprite uses “clone me” to copy itself again:
+The result is this:
+… this is correct because the clone copied
+itself
+, it didn't copy its parent.
+Now lets use the new “create clone of: sprite” block:
+I first clone this sprite:
+resulting in two:
+then I change the second one's costume:
+and then the second sprite uses “create clone of: sprite”
+The result:
+The clone just made another copy of its parent.
+This is exactly what should happen if I use “create clone of: sprite”. The problem is that there is no longer an option to clone
+“Me”
+.
+- - - - - - - - - - -
+Problem:
+This makes it impossible for successive generations to pass on their properties to their children, and then to their grandchildren, etc. Any problems relating to variables are caused by this.
+These properties include:
+-costume
+-graphic effects
+-size
+-layer
+-variables
+-lists
+-direction
+-pen properties
+- - - - - - - - - - -
+Solution Proposal:
+All that is needed to fix this is the option to clone the object the block is put in, like this:
+Please give feedback! Thanks!
+Last edited by illusionist (Oct. 19, 2012 18:44:24)

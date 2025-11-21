@@ -1,0 +1,1 @@
+I've noticed that the Export to local file sometimes works and other times it doesn't work. That's bugging me because I use that a lot since the auto save doesn't work for me. The save button works but, the auto save button doesn't  work so, most of the time it is a race my mouse vs. the auto save feature.

@@ -1,0 +1,1 @@
+According to your post on the other thread, it seems to be something with Firefox's implementation of Flash, and the cursor.

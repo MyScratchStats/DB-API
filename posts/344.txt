@@ -1,0 +1,2 @@
+Also, in scratch 2.0, you can't click a Boolean or expression to get its value.
+This is a very useful feature that's missing.

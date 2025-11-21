@@ -1,0 +1,5 @@
+One way to handle this would be to have a menu option on variable monitors to control how many digits to show after the decimal point. I'll add this to the feature “wish list”.
+The “join” trick is clever. It works by forcing the to be represented as a string with many digits of precision. Then the variable monitor sees it as a string, not a number, and doesn't do any rounding.
+Thanks for the suggestion!
+– John
+Last edited by johnm (Sept. 11, 2012 18:50:14)

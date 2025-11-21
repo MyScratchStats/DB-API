@@ -1,0 +1,1 @@
+It seems to be that the current hour and seconds from the current block aren't working.

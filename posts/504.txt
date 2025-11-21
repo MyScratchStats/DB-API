@@ -1,0 +1,1 @@
+Ok, I'm pretty sure someone had a post about this, and I think it's only a bug on Safari + OSX. I've managed to get a screenshot of it, basically it puts grey horizontal lines on the forum posts. Seems to be affected by scrolling speed as well…

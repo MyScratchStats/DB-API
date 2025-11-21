@@ -1,0 +1,5 @@
+Lightnin
+Hey you guys want to take a look at the code, and see if you can submit a patch to do this?
+In general the thing to keep in mind when working on patches: keep them super simple.
+I think this one might be kinda easy, but I'm not sure. But if anyone wants to take a crack / work on a patch (maybe collaboratively on this thread?), then by all means proceed!
+AFAIK you never released the code.

@@ -1,0 +1,16 @@
+-Isaact-Alt- wrote:
+technoboy10 forgot to turn posting off.
+Lightnin wrote:
+stevetheipad wrote:
+technoboy10 wrote:
+I browsed the site a bit on my iOS device, and when I zoomed in, the header changed (or maybe not) so that I couldn't see some parts. (BTW, thanks for the epic opportunity!)
+The site currently sucks on iOS devices, I can't login on my iPad.
+This is good stuff to know! We're not planning on supporting i0S devices with this release (they can't run Flash, and the current site depends on Flash quite a lot). But after the release of 2.0,
+we're going to start thinking / working more on tablets.
+Hardmath123 wrote:
+Just tried it on my
+iPad2
+running
+iOS6
+. Couldn't log in.
+Last edited by medians (Feb. 13, 2022 03:33:17)

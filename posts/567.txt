@@ -1,0 +1,8 @@
+I noticed that projects with a penned display picture have the pen erased when the project is loaded but not run yet.
+This
+project has a picture of a beautiful fern when viewed from a project listing page but when opened up online, the pen erases so you see an empty black background until you click the flag.
+I don't think this is anything
+bad
+, though personally I'd prefer to be able to see its look when uploaded. Is it supposed to be like this?
+EDIT: For reference you can see the project's thumbnail in the gallery list on the project's page to compare
+Last edited by Chrischb (Oct. 2, 2012 17:26:21)

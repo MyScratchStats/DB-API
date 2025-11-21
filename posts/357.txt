@@ -1,0 +1,2 @@
+If I comment on my own project, I receive a notification. I don't think that should happen.
+(Also, I have some notifications that are impossible to delete–they keep popping back!)

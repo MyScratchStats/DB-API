@@ -1,0 +1,6 @@
+Using Firefox, i can't delete or unshare either.
+EDIT: Here's the error when i try to delete
+[17:00:25.694] PUT http://alpha.scratch.mit.edu/site-api/projects/all/10003675/ [HTTP/1.1 500 INTERNAL SERVER ERROR 1522ms]
+Unshare:
+[17:01:17.873] PUT http://alpha.scratch.mit.edu/site-api/projects/all/1690245/ [HTTP/1.1 500 INTERNAL SERVER ERROR 1329ms]
+Last edited by scimonster (Sept. 10, 2012 10:01:57)

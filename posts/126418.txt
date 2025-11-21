@@ -1,0 +1,4 @@
+Sonickyle wrote:
+Cannot confirm.
+Well, duh, you need an admin message for doing something bad.
+@wolvesstar97:  Deleting an admin message (in blue) will cause it to reappear as a new message, is this correct?  Or is there another bug you're getting?

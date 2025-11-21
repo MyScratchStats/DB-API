@@ -1,0 +1,3 @@
+OK, I'll file it.
+Some of my projects require turbo mode right now… which requires a turbo mode detector and a reminder to the user how to turn it on.  I hate that.
+Once we have a way to control turbo mode within our projects (either through a c-clamp or “atomic” procedures) I'll rewrite my games to take advantage of it.  Then I'll know better if it will work for me.

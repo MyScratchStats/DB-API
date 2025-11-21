@@ -1,0 +1,8 @@
+Hey @illusionist & @Lucario621
+Thanks for writing.  I'm looking at it now.  What version of Chrome are you using?
+If it's still happening for you, can you press F12 to open the developer console, then post:
+- Any red messages you see
+- The whole page address you're on when you see them
+Thanks!
+Adam
+Last edited by AdamLaughlin (Sept. 9, 2012 10:27:13)

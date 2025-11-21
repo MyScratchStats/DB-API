@@ -1,0 +1,3 @@
+In the Scratch project editor, when saving a local copy of the file, it doesn't add the “.sb” extension to the file name specified.
+In fact, it doesn't add any extension at all.
+I know you're thinking of changing the extension from “.sb” to something else (can't remember where I read that) so I understand if you haven't made up your mind what that is yet.  But, some extension should be added.  Even if it is “.sb” for now.

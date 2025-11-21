@@ -1,0 +1,1 @@
+Hardware cursor is temporarily disabled. If you use FF on linux, your cursor won't change to show what tool you have (yet). But it won't crash in the meantime.

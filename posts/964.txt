@@ -1,0 +1,9 @@
+You can kind of fool it by typing it like this:
+[b][[/b]][b][[/b]]
+Which gives:
+[
+]
+[
+]
+I could see what you were trying to type by quoting your post.
+Last edited by BoltBait (Oct. 14, 2012 21:12:44)

@@ -1,0 +1,1 @@
+No, that's too complicated. Imagine waking up to 80 tag messages from some border spammer, it would be annoying even if you don't care about the actual content. I think the owner should be prompted to tag his/her project with a set of predefined tags + maybe 5 text boxes for custom input.

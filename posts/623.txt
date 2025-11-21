@@ -1,0 +1,1 @@
+It happens for everyone. That's because the page doesn't exist. If you look at the URL before clicking, you'll see it matches the current one.

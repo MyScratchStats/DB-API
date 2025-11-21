@@ -1,0 +1,6 @@
+The forums part is here:
+https://github.com/lightnin/DjangoBB
+(But this isn't yet the live code we have running - we'll make that switch a little later, maybe this week or next, when we get onto the new servers.)
+Of course this is normally plugged into ScratchR2, because djangobb is designed to be plugged into a larger django application. But we won't be releasing that code for a while, at least until it's done. Meanwhile though, I'm hoping it's possible to install them as part of this
+djangobb basic project
+, which should still work as a container app. That way if you want to contribute, you can test things.

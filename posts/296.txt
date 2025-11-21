@@ -1,0 +1,1 @@
+Deleting messages causes them to reappear after refresh or going to another page. :\

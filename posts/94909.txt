@@ -1,0 +1,8 @@
+Lucario621 wrote:
+LS97 wrote:
+I think scene name is useful to tell the playing user which scene it is without having to employ a long IF-ELSE, whereas costumes were never devised as needing output to user.
+I totally disagree!
+It's up to the programmer to choose how he wants to use the scripting materials. I've made some project using the name of the custom as a trigger.
+You have the script (in the blue blocks section):
+“name of costume” of….
+Last edited by PERCE-NEIGE (July 28, 2013 23:33:41)

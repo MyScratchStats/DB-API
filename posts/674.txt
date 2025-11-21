@@ -1,0 +1,3 @@
+When you reply to a comment, then click the @link that's automatically added /without refreshing/, it redirects to /users/[object object] which returns a 404.
+P.S. “Oh noes”?!
+Last edited by Hardmath123 (Oct. 7, 2012 03:09:47)

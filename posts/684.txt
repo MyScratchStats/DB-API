@@ -1,0 +1,1 @@
+It's funny because I saw that project (simple clock remix) and it worked just fine so, I was wondering why that was not working.

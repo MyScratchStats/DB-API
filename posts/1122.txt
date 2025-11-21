@@ -1,0 +1,5 @@
+That finally explains your signature, sci!
+I had actually been battling in the old forums to have a more lenient cutoff a while ago. Seems like it's now going to be implemented.
+Now, while it's very unlikely that users will type I's in their signatures for ten lines, what really usually increases character count are images and links. There still should be a global character limit to keep the databases from exploding
+, say 4000 characters, but URLs shouldn't really be counted in the 1000/1500/2000 character limit.
+What do you think? Are the numbers too big?

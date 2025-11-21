@@ -1,0 +1,13 @@
+stevetheipad
+JJROCKER
+Lightnin
+JJROCKER
+So it looks like Lucario beat me to it on the other thread.
+You actually can choose whether you want people to be able to vote more than once or only one time. There is a user id block which can be used to only let people vote a certain amount of times.
+Now I have another question.
+Is there a way to make it so people have to wait a certain amount of time to post again?
+You mean in the forums? I certainly hope so- it's on the list of things we need to add to these forums (otherwise we'll get spammed to death by commercial spammers). But we haven't implemented it yet.
+That's important too but I meant surveys on projects. Is there a way I can make it so people have to wait a day to vote again?
+Yeah, simply use the local time block!
+Awesome! This update is going to be really good. So far, everything I have been asking for has been included in the update
+I have a lot of ideas for future projects now.

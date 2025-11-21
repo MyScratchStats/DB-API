@@ -1,0 +1,8 @@
+forest
+After testing upload of a project..created offline..
+the background block now appears obsolete.. so i assume like other obsolete blocks it should not work online.
+Does this mean all saved projects which have used background block are now not functional??
+Ah, this probably deserves its own thread. That way it'll be easier to find a response when you check back.
+As to the problem - can you link us to the project?
+I suspect that a project and block *should* work online, and also indicate that the block is obsolete (so the user knows they won't find it in the blocks palette).
+Although, if the functionality is no different between now and the past, perhaps we should just convert all old instances of the block to the new, equivalent block. This would happen the first time the project is opened in the 2.0 editor.

@@ -1,0 +1,1 @@
+Might not be the most convenient solution, but you could certainly use “Days since 2000”, converted to whatever time  zone you wish to use.

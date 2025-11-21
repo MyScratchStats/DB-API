@@ -1,0 +1,1 @@
+For some reason the say bubbles don't disappear if you click on the stop button, or delete the clone who was saying. This is annoying  because you then need to manually make all sprites say nothing. In case of clones, I don't know how to get rid of them, because the sprite saying it is gone, but the bubble's still there.

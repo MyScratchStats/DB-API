@@ -1,0 +1,5 @@
+Saca312
+Problem: Whenever I use circles for a picture and switch to another window and try to edit it again, the circles go all over the place. Anyone notice that bug?
+Yeah!
+I was drawing a bunch of lollipops on a background for the blog post. I grouped the pink lollipop-tops to the sticks, then moved on to the scripts. When I went back to the background, the lollipop-tops had been displaced about 200px northeast.
+I don't like how new backgrounds are a huge white rectangle, it should be clear (checkered). Also, you can't spawn a text box on a rectangle, so it's annoying.

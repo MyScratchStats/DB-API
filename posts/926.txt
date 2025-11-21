@@ -1,0 +1,1 @@
+I've been playing around with imported images a little bit, (see latest project,) and I've noticed that the sprite will shrink until it's just a tiny dot, but will only zoom up until a certian point, and then it stops. What's up with that?

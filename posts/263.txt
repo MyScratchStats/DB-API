@@ -1,0 +1,1 @@
+I've tested using the alpha website on the iPad 2 (iOS6) with Safari, and it seems to work well for me. The only issue I'm having is that the “Feedback” button that appears on the left hand side of the screen sometimes changes between being behind or in front of elements on the page, but that probably won't be there for 2.0 release, so it shouldn't be a problem.

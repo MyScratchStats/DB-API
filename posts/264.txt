@@ -1,0 +1,2 @@
+^title
+I'd like to follow people, but the follow button doesn't seem to work.

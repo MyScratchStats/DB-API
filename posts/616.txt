@@ -1,0 +1,3 @@
+I see an envelope on the top line with a little “1” on it.  I click the envelope and see the notification.  Then, the little “1” went away.  Perfect.
+Now, as I click on various pages on the site the “1” comes back.  It doesn't seem to realize that I've already read that notification.
+I'm using IE9 on Win7.

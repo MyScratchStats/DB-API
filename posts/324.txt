@@ -1,0 +1,5 @@
+LS97
+The most efficient way that I would try in a normal programming language with networking is the broadcast approach with separate server and client values, of course. That's pretty much how all programs work, I believe.
+To do that I need to be able to write both code on the server and in a matching client handler, and have the “broadcasts” be able to actually carry values.
+That makes it a bit difficult to implement in a language like Scratch and without your own server!
+Well, it seems simple enough to implement a cloud broadcast, and when a cloud broadcast is received, a user can manually retrieve the value of a variable. It's wasteful to keep checking the value every second for real-time sharing like in a chatroom.

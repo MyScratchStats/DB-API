@@ -1,0 +1,6 @@
+I thing I've discovered a bug that has been causing one of the biggest problems in two of my projects.
+Recently, I've been having trouble having a sprite sense a platform - a sprite titled “Stage” that moves around the screen. What I have recently noticed is that with the (blank of blank) block (in the sensing category), I cannot see the “Stage” sprite's properties because of its name (although both the sprite “Stage” and the actual stage appear on the sprite list). Instead of seeing properties such as x position and y position that should appear, the normal scene # and scene name options appear (that refer to the stage).
+See
+this project
+to see the bug in action, and experiment with block on Sprite20's script page. This isn't a problem in Scratch 1.4, so it shouldn't be a problem with Scratch 2.0 - and as it has broken two of my projects, I can imagine it has broken many others too.
+Last edited by Lucario621 (Oct. 1, 2012 18:35:30)

@@ -1,0 +1,4 @@
+Thanks for the feedback on the paint editor!
+For future reference, it's probably best to give feedback in this thread, at least for now:
+http://alpha.scratch.mit.edu/forums/topic/96/
+The Paint editor is still definitely a work in progress - so we'll look at this and all the other feedback while thinking about future revisions.

@@ -1,0 +1,6 @@
+Another issue along this same line:
+I just clicked “see inside” of my project.  Then I made some changes and clicked the “save” button.  It saved and then I clicked away from the page and was again prompted as above.  The “dirty bit” should have been reset when the save happened.
+EDIT:
+And, another issue:
+I was playing someone elses project and was again prompted when leaving that page.  I didn't makes any changes to their project other than running it.  I never clicked the “see inside” button.  I should NOT have been prompted.
+Last edited by BoltBait (Oct. 11, 2012 22:49:46)

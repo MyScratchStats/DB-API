@@ -1,0 +1,22 @@
+I just wanted to move some of my suggestions for the paint editor to a more appropriate location.  This is reposted from (
+http://alpha.scratch.mit.edu/forums/topic/7/?page=7#post-2089).
+A feature complete bitmap/vector editor is definitely going to be a lot of work.  Reinventing the wheel here is going to be tough and possibly stretch your team a bit outside of your core goals.  To avoid holding up Scratch 2 due to the editor, you might want to consider integrating with an existing SVG project where the majority of the work is already done and being maintained.  The
+SVG-edit project
+(
+https://code.google.com/p/svg-edit/)
+looks wonderful, is under the MIT license and seems to have all the features you are looking for with the added benefit of SVG import/export allowing seamless integration with standalone editors.  The Scratch team would just need to focus on seamless integration back into the user's Sprites library.
+Here are some possibilities:
+1) Keeping your built-in editor simple and adding SVG import/export for more advanced editing in Inkscape, Illustrator, etc.  The key is to maintain scalability and some editability in the local editor.
+2) Integrate a completed third-party open source editor:
+Example: SVG-edit (
+https://code.google.com/p/svg-edit/)
+- fully web-based, active project, MIT license.  Might be able to work with the author to fork into a simplified version suitable for Scratch audience.  Full SVG import and very feature complete.  The demo of the latest version is very impressive and runs right in the browser (
+http://svg-edit.googlecode.com/svn/trunk/editor/svg-editor.html).
+The editable vector shape library would be great for young Scratchers.
+Example HTML-based:
+http://editor.method.ac/
+made by
+http://news.ycombinator.com/user?id=duopixel
+3) Replace the current built-in editor with an open source Actionscript library.
+Example: Actionscript-based SVG editor (
+http://code.google.com/p/svgeditor-as3/)

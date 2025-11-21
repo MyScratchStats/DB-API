@@ -1,0 +1,1 @@
+Some don't render as anything, but that could be because they changed the selectors or didn't implement them. I got %s, %b, %n, and %c to work.

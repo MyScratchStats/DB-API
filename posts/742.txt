@@ -1,0 +1,1 @@
+It would probably take some weight off the shoulders of the programmer, who would have to instead find a way of parsing those large strings back into the lists (like for your – awesome, by the way – chess game).

@@ -1,0 +1,1 @@
+Hmm, that's an interesting bug. Though I could see it going either way - since I think some new scratchers might find it useful to have the stage automatically cleared when you first run the project; although it could cause problems in cases like the project you have a link to. I'm not really sure which is better.

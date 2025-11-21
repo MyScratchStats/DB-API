@@ -1,0 +1,4 @@
+I agree. I also think there should be a block like this:
+toggle "can drag" [ v]
+This way, in dress-up games, when the game starts, you can drag the clothes, but when you're finished, you can't. There is a workaround, but it's easier to put everything in one block.
+Last edited by 16carlsm (Dec. 7, 2013 21:08:36)

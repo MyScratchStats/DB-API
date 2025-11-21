@@ -1,0 +1,10 @@
+There were times in Scratch 1.4 where I did lots of list customization directly through the monitor. (It was easier than using the list blocks after all
+) Yet in the 2.0 beta I only see how to add more items and edit existing ones.
+Things that I'd like to see again:
+• Using the up and down keys to select the next/previous item. I've used this feature a lot actually, though I don't know if anyone else has
+• An X button for items on the monitor; as it is at the moment, you have to use the delete block.
+• Items created empty when creating them with the plus button, not with “***” in them. I don't see any purpose for the asterisks, and I would really rather new items be blank.
+Hitting Enter to create a new item would be a convenient keyboard control, but since there's the button in the bottom-left it probably isn't worth the time to add. EDIT: Ooh people like it too :3
+If I've overlooked something, please tell me ^^
+BTW since we're talking about lists: If you right-click a list monitor and make it hide, the corresponding box in the block palette won't update until you load the palette again. The variable monitors are fine though.
+Last edited by Jonathanpb (Oct. 6, 2012 06:29:03)

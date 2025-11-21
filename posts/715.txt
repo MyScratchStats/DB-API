@@ -1,0 +1,1 @@
+I never liked tags, they don't have much of a purpose. I think you should work on a much better search engine instead, maybe one that actually searches strings in the project (sprite names, string inputs?).

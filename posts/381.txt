@@ -1,0 +1,5 @@
+My project
+Chat Pro
+'s lists seem to move every time I update the project and save it.
+Another bug is that people tell me that they have to refresh the page to update messages; which shouldn't happen, messages should display and be added in real time.
+Any ideas?

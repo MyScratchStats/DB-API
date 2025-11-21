@@ -1,0 +1,13 @@
+Dinoclor
+I really like the new notification system. It's nice to be able to see previous things that have happened. It's also nice to see when you received a notification. But, what is this gallery called “null”? I have a couple of old messages saying that people commented on it, but it seems to not exist. I get an error page.
+That could be a gallery that you have deleted after getting a few comments, and the notification system failed to get the gallery name (because in the notifications they're probably stored as IDs, I guess).
+****
+You really absolutely need to add one automatic line break after quoting someone – it is so annoying having to go look for the end of the previous line
+****
+I love the new site! It's very neat, clean, and I think easier to use. It's moving alongside many other sites in these years in the transition to more intuitive interfaces that generally have more images and less words.
+The first thing I looked at was the front page (as one might expect
+) and the various pages of me: profile, my stuff… I like how these last two are separate. I also think the way project statistics are displayed has been well thought out.
+The front page is a bit off from my expectations. There's really a whole load of projects related to stuff I'm following. This is nice to have, but takes up heaps of space and buries the rest of the rows down. Maybe we could make the two rows “loved by people I follow” and “in galleries I follow” more compact and fit them on the same line?
+Then, my personal choice would be to move the top loved higher than the top remixed and latest projects. Of course, someone else might like to have the remixes on top, and a third person might like to see the top viewed instead. A standard page can't satisfy everybody's wants, but a customisable page can. Why not implement it?
+Lastly… I like how right click has been implemented in blocks. But if there's one thing I'd finally LOVE to have, it's mouse scrolling in the palette and scripting area. It can't be that hard!
+And by the way, the access code can be given away by a dishonest person. Why not restrict the access by login instead?

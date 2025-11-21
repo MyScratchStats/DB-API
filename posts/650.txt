@@ -1,0 +1,8 @@
+BoltBait
+Now, I never clicked “save” but somehow the project automatically saved itself!
+This is very dangerous and not at all what I expected.  I did not want my changes to be saved.
+If you are going to keep the web site like this, I don't think I can ever play my own games anymore.  Because if I do, they will be saved when I leave the page.
+Actually - nothing will change when you view them in the player (except cloud variables, of course). Things are only saved when you go into the editor and make changes.
+This is the pitfall of some difficult choices we made. We decided to with the autosave paradigm for a lot of reasons, most notably that it's simpler for new users to not have to think about save at all.
+The alternative approach was to make a “working” version that you could change and then, when ready, commit and overwrite the “public” version (or discard, as you wanted to do). But having multiple instances of the same project was deemed too complex and confusing new users. However, if you want to make changes without affecting the project, just open it and then remix it. You can then edit privately without affecting the original.
+Another solution to the problem of autosave is to have an automatic versioning system, like google docs. So in the example you described, you could easily revert your changes. There's been some discussion about this but it hasn't been implemented (and probably won't be before 2.0 is released).

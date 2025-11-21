@@ -1,0 +1,1 @@
+This appeared when I was clicking on “delete” for an unshared project.  It wasn't deleting the project but it was decrementing the number.

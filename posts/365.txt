@@ -1,0 +1,2 @@
+Oh, apparently the “to save your project, cancel navigation….” message didn't work in IE.
+Maybe IE has different specs as to how to define the leave this page message.

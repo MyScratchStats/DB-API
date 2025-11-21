@@ -1,0 +1,5 @@
+I think it was a really neat little feature in 1.4, is it going to be implemented in 2.0?
+I've used it for making a
+svg editor
+, and I'm planning to make other things with it to.
+It'd be a shame to remove this feature

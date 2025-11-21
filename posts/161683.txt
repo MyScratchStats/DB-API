@@ -1,0 +1,2 @@
+Sorry for giving this the worst necro in the history of bumps!
+This is a real problem, especially on mobiles with a fixed width because the login button will never be visible.

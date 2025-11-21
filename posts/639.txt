@@ -1,0 +1,2 @@
+I think it's possible to make variables clone specific, but I'm not quite sure how.
+I think it'd be nice, since we already have variables for all sprites or one sprite, to have variables for all clones of this sprite or one clone.

@@ -1,0 +1,1 @@
+The blocks and text alignment look pretty bad when in “English - Large Print” mode.

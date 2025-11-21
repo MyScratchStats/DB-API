@@ -1,0 +1,1 @@
+Not a bad idea! Having a “local” and “standard” block (each with dropdowns for whichever time unit you want) would be useful for some projects - and I think it would be easy to understand, since most people know about timezones.

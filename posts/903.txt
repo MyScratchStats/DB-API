@@ -1,0 +1,6 @@
+My export to local file button does not work. What I did was to make a small program and see if the button worked. With the small program the button worked. I've been making a big program and I tried the program and it didn't work. Do you know why this is happening? My small program is this:
+http://alpha.scratch.mit.edu/projects/10004723/?mode=player.
+My big program is this:
+http://alpha.scratch.mit.edu/projects/10004149/?mode=player.
+Zsiegel
+Last edited by zsiegel (Oct. 13, 2012 13:34:54)

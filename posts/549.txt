@@ -1,0 +1,1 @@
+what about maximum 40? I feel that for single-word headers 32 isn't large enough…

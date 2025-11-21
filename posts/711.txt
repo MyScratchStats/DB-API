@@ -1,0 +1,1 @@
+What's the deal with the 2.0 editor thing where people can use javascript to get to it? Can you limit that? If so, why don't you?

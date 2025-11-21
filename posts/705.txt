@@ -1,0 +1,3 @@
+Yeah, the survey showed that they aren't very accurate / useful in a lot of ways.
+Our current thinking is to only allow the owner of a project to make tags for it - hopefully that'll cut down on the noise some. There was some talk of limiting the number of tags as well (to maybe around 3).
+Do you have any thoughts on tags?

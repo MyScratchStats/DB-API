@@ -1,0 +1,5 @@
+DjangoBB is not very good at processing UBB code.
+It should ignore any
+[
+codes] that are invalid.  Instead it seems to not render them at all.
+This makes it difficult to type our messages in this forum if we want to use the [ symbol.

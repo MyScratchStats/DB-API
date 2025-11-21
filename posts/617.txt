@@ -1,0 +1,2 @@
+Everytime I try to open account settings, it seems to redirect me to whatever page I was on previously.
+Is it available yet? Or is this some kind of browser bug? (I'm using Firefox Aurora, which could mean that it''s slightly unstable).

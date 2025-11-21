@@ -1,0 +1,4 @@
+Paddle2See
+OMG.  We are cursed…..doomed forever to be at a loss for words at random moments.
+Seriously, we have to track this down and kill it once and for all.  Please provide the details of how you made this appear.
+I spoke to Johnm about it and he said he's asking for Verdana to render the text in the blocks. He thought that if Flash didn't find it on the system, it would automagically default to some other font that it does have. So the fix should be to just do all that ourselves (pretty simple I think?). But we need to know all the info first - flash version, browser version, OS, steps to reproduce if necessary.

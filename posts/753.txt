@@ -1,0 +1,2 @@
+Hi Lightnin! So, I have tried to use it on Google chrome with flash version 11.4.31 on windows 7, internet explorer flash version 11.4.402 and Firefox with flash version 11.4.402. When I click the Export to local file button nothing happens the menu just goes away!
+Zsiegel

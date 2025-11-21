@@ -1,0 +1,32 @@
+Hardmath123
+scimonster
+Hardmath123
+I just made my first 2.0 project,
+Bit Art
+. A few glitches/bugs/annoying things I noticed were:
+Either comments aren't implemented, or they're not intuitive; either way I didn't figure out how to add them…
+I couldn't find the  C block.
+When LS97 commented and I clicked on the @link, I was taken to an error page:
+http://alpha.scratch.mit.edu/users/[object%20Object]
+Cloud lists are kind of slow, there should be a cloud broadcast facility so that you can download a large list on demand, rather than cache every few seconds.
+Cloning is awesome! I love how clones auto-delete when you press the stop button, and don't show up in the palette. Well though-out. But please make sure all speech bubbles are removed when the clones are deleted, though; I once had a set of 121 speech-bubbles of clones which were deleted, and no idea how to delete them. I had to start afresh.
+No change in the newsfeed on the main page for some reason
+EDIT: 7. My list doesn't work…
+Comments are a thing of the future.
+What C block?
+Doesn't seem to happen again.
+Sounds cool!
+Oh, that sounds bad. That is on the list of things to do. It's been there for several months…
+Which, the
+What's happening?
+feed?
+Odd, it works for me. EDIT: No, only in preview it works. :S
+Boo!
+“All at once”, sorry for not mentioning it…
+Umm, I really have no idea how to respond to that.
+Great.
+Yeah.
+Who do we get to fix it?
+2) That's been removed. It'll be replaced with an option to run atomically when creating a procedure.
+3) It might have just been a one time thing. It doesn't happen for me.
+7) AdamLaughlin, i think.

@@ -1,0 +1,1 @@
+The tips tab shows up on top of the menu I just clicked on.

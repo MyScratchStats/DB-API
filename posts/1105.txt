@@ -1,0 +1,14 @@
+BoltBait
+I would really like a mobile specific CSS file for the forums.
+Something like this could be added to the CSS file…
+<style type="text/css">
+@media handheld
+{
+/* handheld styles */
+}
+</style>
+I wonder if DjangoBB is working on this issue? I haven't stumbled across anything related to this yet.
+Anyway - I agree this would be nice. Maybe add to tracker as feature request for forums?
+Also, the forum code is here:
+https://github.com/lightnin/DjangoBB
+If you or any devs you know would like to work on a patch for this, I think we'd be amenable to adding it (provided it doesn't add too much complexity or create problems for non-mobile devices).

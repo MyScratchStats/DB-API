@@ -1,0 +1,2 @@
+Dropping a block into the scripts pane causes the scripts pane to scroll to the top and reset any changes in there.
+Can we get that to stop?

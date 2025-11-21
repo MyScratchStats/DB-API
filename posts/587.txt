@@ -1,0 +1,4 @@
+Moderation in projects with user submitted content seems to be a fairly big issue. My question is, however, how is the creator of the project supposed to moderate the submissions if the only way of accessing the variables is through the project's scripts, and those are visible to everyone?
+Admin powers are essential in keeping user submitted content appropriate. Of course, you could hash an admin password and check a passworded input against that hash, but it's cumbersome and not exactly top-security.
+What I was thinking (unless there are ways I do not know of, in which case I'd love to hear) is that the creator of the project would always receive a special, constant ID (maybe 1, or a string “admin”).
+What do you think? Are there any disadvantages to this (maybe even undocumented) feature?

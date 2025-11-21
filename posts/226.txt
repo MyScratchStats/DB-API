@@ -1,0 +1,21 @@
+Hardmath123
+LS97
+Hardmath123
+LS97
+Lightnin
+As I understand it, the reason for this block is to follow a pretty standard convention used by other systems. It's similar to
+“Unix Time”
+.
+This is a little easier to work with for some things than the other “local time” blocks. For example, if you want to know the order of people who answered your survey, capturing their local time would mean that you'd have to then convert all the times to UTC to make an accurate comparison. Days since 2000 makes that kind of before / after comparison much more simple.
+And why use 2000 instead of the much more useful and standard Unix time 1970?
+Scratch
+2.0
+?
+I personally feel it should be a drop down and number input: ( since (2000))
+Lol, sure they did it because of that
+I think it doesn't
+really
+need to be a dropdown, because it's really easy to add on a certain about of years using the number 365 / 366, but it does make more sense to start from 1970.
+Why? It's all the same, since we're past that date. They could make it yesterday, it would still work. 2000 is a nice clean round number.
+EDIT: I really need a 60-second rule to curb my posting…
+Speak of the sixty second rule you don't.

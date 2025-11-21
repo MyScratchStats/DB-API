@@ -1,0 +1,4 @@
+EDIT:
+And, by the way, I think it is pointless to have the project actually run in such a small window.
+I would propose to change that to simply be a thumbnail image that is clickable and have it take you to the actual project page in order to play the game.
+Last edited by BoltBait (Oct. 14, 2012 20:26:47)

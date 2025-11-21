@@ -1,0 +1,8 @@
+OK, a couple of issues:
+The project's “dirty bit” is not working at all.  That is, the detection if something has changed.
+Here in this screenshot you can see that I visited one of my projects.  I did not click the “see inside” button.  I didn't even click on the project to run it.  Yet, when I click away from the page, I'm prompted with the following (see item #3):
+Should I ever be prompted with this message as you've elected to have “automatic saving”?
+Other issues in this screenshot:
+#1: The word “feedback” is not rotated properly.  I'm running IE8 on Windows 7.
+#2: Quote marks –> " <– did not get imported properly or are not being processed properly in comments.
+Last edited by BoltBait (Oct. 10, 2012 12:51:15)

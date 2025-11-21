@@ -1,0 +1,7 @@
+justjess678
+I'm doing a school project on augmented reality, and I wondered, is it possible to do this sort of thing on scratch? i.e: You show the webcam a picture, and something happens?
+All suggestions welcome!
+Dang, it's too bad the search is broken right now! But the answer is yes, there are lots of cool things to do with the camera.
+Check out this page for a description:
+http://info.scratch.mit.edu/prototype#camerablocks
+I think we lost our old galleries a day or two ago when we migrated, and maybe some projects, so I can't find an example at the moment, but there are some cool ones!

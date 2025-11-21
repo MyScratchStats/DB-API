@@ -1,0 +1,1 @@
+%m works too (as a sprite I believe, as it was in 1.4), but it doesn't allow me to use the variable in the block.

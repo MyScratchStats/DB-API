@@ -1,0 +1,3 @@
+stevetheipad
+IT already works that way, the sprite simply isn't highlighted like it used to.
+That's just a missing feature.

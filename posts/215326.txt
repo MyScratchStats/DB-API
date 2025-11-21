@@ -1,0 +1,5 @@
+Lightnin wrote:
+scimonster wrote:
+Is it possible to access the source of this site?
+Not yet. It's likely we'll release it once it's finished, but not a sure thing.
+Huh? I'm staring at the source code rught now. You can just use your browsers View Source thing to see the HTML.

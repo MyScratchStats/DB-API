@@ -1,0 +1,1 @@
+I like to know when people are having conversations on my project. It just shouldn't send an ordinary comment notification.

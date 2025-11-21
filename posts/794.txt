@@ -1,0 +1,4 @@
+jji7skyline
+I really don't understand how this can be possible. I thought it was completely reprogrammed O.o
+Maybe something to do with font embedding?
+Yeah - and should be fixed in the release that got pushed about an hour ago?

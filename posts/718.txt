@@ -1,0 +1,2 @@
+I think instead of user specified tags you should allow to select categories from a list of checkboxes (a bit like the predefined tags in the 1.4 upload dialog).
+I like the idea of not allowing others to specify tags.

@@ -1,0 +1,6 @@
+Or you can have two different blocks; one would clone at the location of the item cloned, and the other would clone at an (x, y) location:
+[clone {cloned item ?}]
+[clone {cloned item ?} at (x), (y)]
+Keep in mind the “clone startup” block would also have to be modified to keep up with the new blockspecs.
+[clone {clone ?} startup]
+Last edited by Vista4563 (Oct. 17, 2012 20:50:33)

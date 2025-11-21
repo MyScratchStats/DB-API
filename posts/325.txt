@@ -1,0 +1,8 @@
+LS97
+ProgrammingFreak
+For me it seems a bit too specific and I'm not sure how often it would be used.
+I think it would be better if you could set the date.
+No, definitely not setting the date!
+That would make it extremely confusing to anybody who looked at the scripts!
+Agreed. Imagine trying to piece together something like:
+(join ((((days since (10).(1).(2012)) * (24))*(60))*(-1)) )

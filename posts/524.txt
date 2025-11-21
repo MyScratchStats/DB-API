@@ -1,0 +1,1 @@
+Yeah, we need darker colors. It makes the text more visible. Ideally we keep all the old colors except the colors for Events, which should be some form of orange like control, since they are in fact special control blocks. Also, while we're at it, it might be worth suggesting zebra coloring.

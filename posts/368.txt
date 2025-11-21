@@ -1,0 +1,2 @@
+This block can be used in conjunction with persistent lists to record the time of events such as when your project is run or when someone breaks the high-score record of a game. Later, you could export the data from Scratch and create a timeline graph (e.g. showing project views per week).
+But it's a good point that it's not as generally useful as most of the other blocks.

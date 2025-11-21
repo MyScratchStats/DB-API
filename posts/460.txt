@@ -1,0 +1,6 @@
+LS97
+But they could definitely add user notifications when a user is referenced!!!
+I am definitely looking for that feature:
+When typing @LS97 on the forums it should notify me.
+Worries of abuse? Put limits…
+No, I think atom feeds are pretty easy on the server - just text. So: Thanks for the report! Yeah it looks like there's more config work to do. We'll add that to the list!

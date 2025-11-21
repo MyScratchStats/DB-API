@@ -1,0 +1,4 @@
+After testing upload of a project..created offline..
+the background block now appears obsolete.. so i assume like other obsolete blocks it should not work online.
+Does this mean all saved projects which have used background block are now not functional??
+Last edited by forest (Oct. 19, 2012 08:10:30)

@@ -1,0 +1,2 @@
+In an ideal world (i.e. BYOB
+), clone is a reporter which reports a sprite object created. And clones can clone recursively. I think for the moment Scratch probably wouldn't want to add new complex data types, but how about the clone block reports the name of the sprite's clone (i.e. clone1, clone2, etc.)? Or a (most recent clone's name) reporter?

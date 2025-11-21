@@ -1,0 +1,5 @@
+Lightnin
+stevetheipad
+Why isn't there an option to “print” text? It's nearly impossible to make text without the paint editor which restricts a lot of things.
+Have to wait for the next rev (complete rewrite) of the paint editor, I'm afraid.
+When is that?

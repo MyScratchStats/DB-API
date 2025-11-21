@@ -1,0 +1,7 @@
+BoltBait
+I wouldn't mind the “auto save” feature as long as we have these two other features:
+1) changes to published projects wouldn't automatically publish when the save happens.  You would still have to click a “publish changes” button to make the changes go live.
+2) there would need to be a “revert to published version” button to reset all of the changes made so far that have not been published.  Of course, there would need to be a warning message box to remind the user what they're about to do.
+If these conditions were met, there would still need to be a way to “see inside the published version” along with the “see inside the latest version” so that a developer could see the changes that were made and maybe copy scripts between them.
+In our design process, we spent a lot of time considering an approach very similar to this. But we decided that it would be confusing (especially for newer users) to have two different versions of the project (as you call them: the published version and the latest version).
+If you want that approach, you can approximate it with our system by making a copy of a published/shared project before doing any editing. Then, you'll have two versions (a published version and a latest version), as you want. We like this approach better since you've made an explicit decision to have two versions. Experienced Scratchers can make the decision to do this, while newer Scratchers don't have to worry about two versions.

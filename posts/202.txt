@@ -1,0 +1,2 @@
+Just a note: “uploading” now means something a little different – since when you make a project public, you aren't really uploading (it's already on the server, after all.) Kinda confusing, I know!
+In the future, ‘uploading’ will generally mean using Scratch 1.4 to share a project to the website, since that's literally ‘uploading’.

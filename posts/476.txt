@@ -1,0 +1,3 @@
+Lightnin
+Might not be the most convenient solution, but you could certainly use “Days since 2000”, converted to whatever time  zone you wish to use.
+Being that Scratch is made for young people who are just starting programming, that doesn't seem a very good solution. Mine would be fairly simple and isn't too inconvenient in my opinion.

@@ -1,0 +1,2 @@
+Isn't there some fallback font that can be used on all systems regardless of programs installed?
+Or is there a way of embedding a font into the Flash file?

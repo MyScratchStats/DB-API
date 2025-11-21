@@ -1,0 +1,2 @@
+I'd like 20 tags.
+Also, sometimes people don't tag their projects, so i'll add a couple. If only the owner can tag, then this becomes unfeasible. Perhaps being able to suggest tags? So, the owner then gets a message “___ wants you to add the tag __ to your project ___. Yes/No”

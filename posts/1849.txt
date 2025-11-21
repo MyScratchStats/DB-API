@@ -1,0 +1,6 @@
+v178
+- removed MozFest additions (map and Thimble extensions)
+- checkmarks in “More” menu
+- backdrop count below stage
+- changes to procedure call mechanism to better handle recursion and “do without screen refresh”
+(in progress; a bit more work is needed on this)

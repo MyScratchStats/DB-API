@@ -1,0 +1,3 @@
+I found it very helpful in Scratch 1.4 to double-click on reporter blocks (or chunks of blocks) or boolean statements; it was easy to check their values. Is there any plan to return this feature? At the moment you have to check boolean statements or reporters made of multiple blocks by inconveniently plugging them into a script
+Though yeah standalone reporter blocks have watchers so this isn't completely necessary.
+(I could be missing something here, sorry if I am)

@@ -1,0 +1,5 @@
+It'll say your project name:
+“My Project” in a text box
+and then below it your username and status
+by kayybee (unshared)
+Its default to unshared, naturally that would make sense.

@@ -1,0 +1,8 @@
+Cool.  I'm glad to hear the problem is limited to unshare and delete now.  Thanks for working through this with me!
+I can replicate the errors at
+http://alpha.scratch.mit.edu/mystuff/#projects,
+so I assume that's where you're getting them.  Let me know if you're getting them somewhere else.
+@illusionist - Scimonster got them, so I'm set.  If you ever want the developer console for future reference, it's accessible via the wrench menu in Chrome, or F12 key.
+@scimonster Thanks!  That helps me know where to look.
+Working on a fix now!
+Adam

@@ -1,0 +1,17 @@
+# https://github.com/lightnin/DjangoBB/blob/master/djangobb_forum/forms.py
+# lines 248  to 251 to end of -- replace with:
+html = convert_text_to_html(profile.signature, self.profile.markup)
+if (len(html)<=400 and html.count("<br>")<=1): # if length is less than or equal to 400, and there are 2 or fewer lines
+profile.signature_html = html
+if commit:
+profile.save()
+else:
+# load an error page which explains the restrictions
+# i think the code is: raise forms.ValidationError(_("Explain restrictions here!"))
+return profile
+Ideally this should work.
+Use it
+here
+.
+P.S. So you guys are actually going to implement polls?
+Last edited by Hardmath123 (Oct. 17, 2012 03:12:52)

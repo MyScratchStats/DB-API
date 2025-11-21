@@ -1,0 +1,6 @@
+justjess678
+Adobe version: 11.2.202.243
+OS: Linux 3.2.0-26-generic (32-bit)
+Firefox: 16.0.1
+Hope this can help you fix the bug
+Linux 3.2.0-26-generic (32-bit) is your kernel, not OS.

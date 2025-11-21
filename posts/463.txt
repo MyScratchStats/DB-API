@@ -1,0 +1,1 @@
+On the “What's Happening” section of the homepage, instead of the actual gallery name it says “Gallery Name”.

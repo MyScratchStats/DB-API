@@ -1,0 +1,1 @@
+Add a user's ID to a cloud list when someone votes, then check the list to see if they can vote again.

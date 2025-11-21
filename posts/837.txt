@@ -1,0 +1,4 @@
+technoboy10
+^title
+It gave the data uniqueness from the control blocks.
+I think it'd be nice if we could set the color of the variable watcher.

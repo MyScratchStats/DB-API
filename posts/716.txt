@@ -1,0 +1,2 @@
+How about getting rid of auto-save and have a simple save button with a safety net dialog in case you accidentally close the window? I personally experiment a lot with my code, so I can't deal with getting my bloopers continuously saved.
+Last edited by Hardmath123 (Oct. 9, 2012 02:53:47)

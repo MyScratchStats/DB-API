@@ -1,0 +1,4 @@
+cheddargirl
+Is there another way of selecting? Or, if forcing a shape to the top layer is the only way to move a shape, is there a way to control which layer an object is located?
+We don't currently have plans to support controlled layers. We're trying to balance simplicity and control. Can you describe (or even better create a sample project) with the use case where you think controlled layers would be most useful?
+Thanks!

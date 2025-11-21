@@ -1,0 +1,3 @@
+Oh yeah, I forgot about that.
+I still prefer my way, because you're loading extra data if you don't display what's below 150px. They should use both together, so that you both have the size and content restrictions.
+Last edited by Hardmath123 (Oct. 17, 2012 11:29:35)

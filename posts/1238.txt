@@ -1,0 +1,4 @@
+forest
+http://alpha.scratch.mit.edu/projects/1459500/?mode=player
+soundtrack judders as does stamping..
+Hmm.. I'm not getting any juddering of sound or stamp. Might be a performance related issue.

@@ -1,0 +1,7 @@
+JJROCKER
+sdg1
+JJROCKER
+The “Projects Loved by Scratchers I'm Following” section on the home page has tons of duplicates of projects for me.  It's probably just a glitch but I think seeing the project once is enough.
+Oh - do you think it's being caused by the fact that more than one person you follow has loved a given project ?
+Yeah, I'm pretty sure that's why.
+Ok - should be fixed now. Thanks for reporting! :-)

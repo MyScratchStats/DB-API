@@ -1,0 +1,5 @@
+Lightnin
+Yeah, the survey showed that they aren't very accurate / useful in a lot of ways.
+Our current thinking is to only allow the owner of a project to make tags for it - hopefully that'll cut down on the noise some. There was some talk of limiting the number of tags as well (to maybe around 3).
+Do you have any thoughts on tags?
+Three? I'm hoping for like 10 max, but I like the idea where only owners can add tags.

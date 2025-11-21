@@ -1,0 +1,10 @@
+wolvesstar97
+Lightnin
+Hmm… weird. Does it happen consistently, or just once in a while?
+It might actually be triggered randomly b/c of server load.
+Well, I havent tried again in IE, but it's not happened in Chrome.
+Interesting! Would you mind giving it a shot to see if you can reproduce it in IE sometime?
+We're gonna be especially vulnerable to IE bugs for a while, because:
+1) None of our devs use Windows,
+2) IE is notoriously bad about following web standards, causing untold zillions of wasted hours for programmers trying to make things that work on everything else also work on IE.
+But of course, a lot of people use it, so we gotta support it! So if you see bad things happen with it, and describe the exact steps that make the bad thing happen each time you do them, we'll fire up our special Windows test computer and look into it.

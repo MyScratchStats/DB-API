@@ -1,0 +1,6 @@
+medians wrote:
+Broo why is he giving me notifications.
+Anyway, you can do this in combination with the days since 2000 block because it always reports in UTC, but that's difficult, so it could be like this:
+([current hour v] in UTC [+ v] () ::sensing)
+(difference from UTC time ::sensing)
+Yes that would work. How to get this implemented?

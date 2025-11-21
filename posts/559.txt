@@ -1,0 +1,7 @@
+scimonster
+40
+10
+Seems alright.
+The syntax is weird though. It should be
+[size=15]15[/size]
+true!

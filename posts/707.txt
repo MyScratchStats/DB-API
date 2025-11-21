@@ -1,0 +1,12 @@
+LS97
+How about:
+It autosaves the project as it does now.
+When the user clicks SHARE, the project is shared to the public.
+The user is free to edit it and the project will autosave,
+however
+it will not show to the public until the user clicks RESHARE.
+There could optionally be a button called REVERT TO SHARED VERSION for bloopers.
+I think that's simple and convenient. A lot easier that what is being currently forced.
+These are important issues, but the First Impressions thread doesn't seem like the right place to discuss them. So I started a new topic called
+Revising Shared Projects
+, and responded there.

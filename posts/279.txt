@@ -1,0 +1,1 @@
+Why isn't there an option to “print” text? It's nearly impossible to make text without the paint editor which restricts a lot of things.

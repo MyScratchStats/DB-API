@@ -1,0 +1,1 @@
+How well will these be supported in 2.0? I see that the sensing and motor blocks for them are now hidden under More.

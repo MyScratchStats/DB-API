@@ -1,0 +1,2 @@
+When the player is in Turbo mode, the sprite “glide to” block is not smooth.
+I noticed this in my Chess game.  When you move pieces the game uses the “glide to” block.  When in non-turbo mode, the pieces glide smoothly.  When in Turbo mode, the pieces seem to jump, jump, jump to their destination.  The animation is not smooth at all.

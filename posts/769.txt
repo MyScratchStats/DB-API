@@ -1,0 +1,10 @@
+jji7skyline
+Another thing, don't use IE 9
+While I agree with that sentiment generally, it's actually quite helpful that BoltBait is using it now.
+None of the Scratch Team use Windows, so we don't tend to encounter Windows related glitches. However, a great deal of Scratchers do use IE, so it's very helpful to have these issues reported.
+re: Dirty Bit. Yes, that's definitely a bug! Can you file it in the tracker if you haven't already?
+My understanding is that autosave should not come into play at all unless you've opened the project in “edit” mode. So, something's wrong there.
+Seems like the quote handling in comments (and the lack of rotation for feedback) are also solid glitches.
+If you have any trouble with the bug tracker, let me know and I'll sort it out - you should be squared away though.
+Edit: Ack, looks like I hadn't set proper perms for you on the bug tracker previously - apologies for any confusion! You should be set up to report against any of the projects now.
+Last edited by Lightnin (Oct. 10, 2012 12:25:42)

@@ -1,0 +1,6 @@
+Sorry for responding so late, I haven't been on very frequently. Thank you for choosing me to test this. I think that the prototype is very well thought out. But I have noticed some things that I don't particularly like.
+1. When loving and favoriting projects, I like the general layout, but I think that it might be better if the hover color was a little bit lighter than the clicked color(red for love, yellow for favorite).
+2. Something I noticed about the original Scratch website, which apparently prevails as an issue today, is getting a project's full name when it is too long to fit below the picture. In the first site, you roll over it. Sometimes, though, it doesn't work, and gives a … even when rolled over. Here there is no evident attempt of getting the full name. I do like the scrolling through projects though.
+3. I think that the words “Mark it up!” in this box should go outside of the box, to see the words more clearly.
+4. Maybe the envelope and Scratch folder icons could say “Notifications” and “My Stuff” when rolled over.
+Other than this, the fluentness and simple user interface are very good. Keep up the good work, and Scratch On!

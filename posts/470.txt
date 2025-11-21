@@ -1,0 +1,6 @@
+kayybee
+I am now able to delete my notifications now, but I realized that all my notifications from march or so are still there. And it's march and before. I've been trying to delete them, and I've gotten to october. is there a way to delete all messages or if you guys could implement one?
+Thanks
+Ah, this is a potentially confusing thing about the way things are set up now!
+You don't need to delete notifications. (In fact, I'm not sure why settled on having the X / delete functionality there at all. To me, that seems kinda confusing). The number that appears over the envelop at the top of your screen just shows how many unread you have. And as soon as you visit your messages page, they're all read.
+Any thoughts on this change, or ideas about how to make it clearer?

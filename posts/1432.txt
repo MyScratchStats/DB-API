@@ -1,0 +1,14 @@
+v 169
+- bug: return from full-screen to project page goes into “edit” mode
+- bug: title bar should not become black
+- remove “all at once” block
+- when viewing non-own project, move project title down one pixel
+- new full screen icons
+- new redo icon from Natalie
+- change save status alert color to white or gray
+- allow clicking on “options” in New Block dialog
+- suppress horizontal scroll bar in media pane
+v 171
+- merged in Shane's paint editor code as of Friday
+- reverted to a single tab state (vs. separate states for Stage and sprites)
+- first attempt to support browser zooming in the editor; needs more work on the JavaScript side

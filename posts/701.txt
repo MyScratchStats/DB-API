@@ -1,0 +1,1 @@
+I guess you'd have to set the file extension yourself. I was able to do it on OSX, maybe the export dialog is different on Windows?

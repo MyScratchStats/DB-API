@@ -1,0 +1,8 @@
+I would really like a mobile specific CSS file for the forums.
+Something like this could be added to the CSS file…
+<style type="text/css">
+@media handheld
+{
+/* handheld styles */
+}
+</style>

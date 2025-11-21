@@ -1,0 +1,12 @@
+LS97
+Lightnin
+LS97
+But they could definitely add user notifications when a user is referenced!!!
+I am definitely looking for that feature:
+When typing @LS97 on the forums it should notify me.
+Worries of abuse? Put limits…
+No, I think atom feeds are pretty easy on the server - just text. So: Thanks for the report! Yeah it looks like there's more config work to do. We'll add that to the list!
+Why did you quote me without giving me an answer?
+Oh, you mean to the idea of typing @ls97 and what not?
+That's still a possibility for the main site, but I'm not so sure about the forums.
+It could have some advantages, but one question to ask is: why haven't many other forum / social sites done the same (or have they?) I imagine your messages could get flooded pretty quickly.

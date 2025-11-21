@@ -1,0 +1,7 @@
+I understand that there is no survey block but I have some questions about surveys.
+I played with illusionist's color survey and I realized that people can keep voting as much as they want.
+This feature could be good if you wanted to ask people what project they want you to make next or a basic question like their favorite food.
+The only thing is that if people can vote as much as they want, they can keep pressing the green flag and press one option over and over again which ruins the purpose of only voting once.
+Is there a way to make it so that people can only vote once per account or do they get to vote as much as they want?
+Thanks!
+-JJROCKER

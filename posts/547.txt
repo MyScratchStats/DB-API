@@ -1,0 +1,23 @@
+scimonster
+Lightnin
+LS97
+Lightnin
+LS97
+But they could definitely add user notifications when a user is referenced!!!
+I am definitely looking for that feature:
+When typing @LS97 on the forums it should notify me.
+Worries of abuse? Put limits…
+No, I think atom feeds are pretty easy on the server - just text. So: Thanks for the report! Yeah it looks like there's more config work to do. We'll add that to the list!
+Why did you quote me without giving me an answer?
+Oh, you mean to the idea of typing @ls97 and what not?
+That's still a possibility for the main site, but I'm not so sure about the forums.
+It could have some advantages, but one question to ask is: why haven't many other forum / social sites done the same (or have they?) I imagine your messages could get flooded pretty quickly.
+I know Facebook does it.
+Facebook and Twitter only to name a couple.
+It can be abused if there are no measures put in place. For example, to prevent over-tagging:
+- only notify once per post, ignore further tags
+- set a limit as to how many tags a user can send out in a period of time
+- implement abuse reporting right into the notification
+- don't allow admins (and possibly moderators) to be tagged
+- allow people to turn this type of notification off
+I think it's a lot more useful on the forums than the main site: on the main site it's easy to just go to a user's latest project and talk to them about something. On the forums, you sometimes want someone's opinion but can't always attract their attention.

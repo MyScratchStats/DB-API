@@ -1,0 +1,7 @@
+Custom blocks are a high-contrast purple color now.
+Why are colors being tampered with at this stage in development? It just seems like a distraction to me…
+In my opinion:
+- the purple can confuse with looks blocks
+- too-high contrast
+- not a necessary change…I think brown worked nicely
+Last edited by illusionist (Oct. 19, 2012 18:25:30)

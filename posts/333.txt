@@ -1,0 +1,2 @@
+Inserting spaces between single letters is a bug – it should behave the same way it does in Scratch 1.4. Thanks for reporting this!
+Last edited by natalie (Sept. 28, 2012 17:53:35)

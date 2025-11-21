@@ -1,0 +1,40 @@
+Thanks everyone for all the great feedback!
+I'll try to answer all the questions I've seen on this thread that haven't been answered - if I miss yours, don't hesitate to ping me! However, it might be easier to post questions on their own thread, instead of in the first impressions thread - so it'll be easier for everyone to answer them more quickly.
+Thanks!
+angelica101
+Awesome!! Thanks for letting me check it out! One question- How do I delete a gallery, and how do I export a sound, but not on a local file?? And how can I reverse a song?
+You are welcome! As Lucario mentioned, gallery deletion hasn't been implemented yet. Champika, our lead developer, has a thread where she'll be posting when she pushes a bunch of updates. When you see that the site has been updated, you can see if those new features work. Hopefully we'll get gallery deletion / other features soon.
+jji7skyline
+I really like the new features on the my stuff and profile pages, especially the featured project thing, which I presume would be able to be changed in the account settings, once that's built?
+–
+I wanted to know, are we allowed to make projects yet?
+Of course! Make away.
+Yep - you will be able to set the featured project in a future version.
+Gamefan888
+1. Who gets to see this? My more recent accounts don't have this notification.
+2. How long will I be able to use this access code, or do I get to keep it until the official release of 2.0?
+3. When will this version be released? I received a very vague answer at Scratch Day and I was wondering if there is a clearer date now.
+….
+My bugs:
+1. It said a project I just made in the 2.0 version was made four hours ago in “recent activity,” even though it was just moments before I read that.
+2. My most recent projects and inbox messages are not listed.
+Thank you again for this opportunity - this is so cool!
+-Gamefan888
+You are so welcome! Thanks for testing!
+1. We invited Scratchers who've helped out with different roles on the site - curators, collab counselors, sds curators, etc.
+2. We expect that you'll be able to test 2.0 right up to the release! It's hard to tell though - we might have to take some downtime at some point (things still need a lot of work).
+3. We *hope* to release by the end of 2012, but there's tons to do.
+Bugs:
+1. Yep! We imported a snapshot of the old site's database, taken the early morning of September 18th. So anything added / changed since then on the old site won't show up here until we do another migration, anywhere from a week to a couple months from now. We'll let you know with a post in here when we do another migration. On the day that we transition completely to the new site, we'll shut down the old one, dump the database, and do the final migration. (We won't surprise you though - we'll definitely give everyone some notice / warning.).
+jji7skyline
+(re: credits on project page.)Yea, but I'm not so sure about it being on a separate tab, and less visible than the project notes. Maybe it should be visible by default without clicking anything?
+I've been a fan of that idea for a while, but it makes the design a little tricky. If anyone wants to make mocks of how this might look, by all means: do so!
+VanillaCreme
+Awesome, just awesome. It looks like you have incorporated alot of suggestions too!
+It seems really daunting to navigate the site though, But im sure we will learn fast.
+It is a little daunting! Please do tell us when you get confused or overly daunted - that'll help us think of ways to make it easier for the zillions of Scratchers who will eventually join us on the new site!
+LS97
+And by the way, the access code can be given away by a dishonest person. Why not restrict the access by login instead?
+Quite true! We trust our testers though. And even if the access code is given out (which we hope it won't be), only accounts that have been enabled can actually login to the site. Try to login to one of your test accounts, and you'll see the error message.
+Ok - end of mega wall. Thanks again for all the question! Please keep them coming, but don't hesitate to start a new thread if your question doesn't really fit in “first impressions.”
+Last edited by Lightnin (Sept. 27, 2012 10:04:00)

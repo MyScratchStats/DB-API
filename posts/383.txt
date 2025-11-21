@@ -1,0 +1,3 @@
+LS97
+I think scene name is useful to tell the playing user which scene it is without having to employ a long IF-ELSE, whereas costumes were never devised as needing output to user.
+That's a good point LS97. Costumes are usually just an output, and don't actually cause other scripts or events to happen; whereas with scenes, they now work more like broadcasts, as they can trigger scripts in other sprites - so having a scene name block is much more useful. That's not to say that a costume name block would be bad (I would still like to see it added); but it's not completely necessary.

@@ -1,0 +1,4 @@
+I'm curious, what font is used for the block text?
+I think it would be best to use Arial, Verdana, or Segoe UI.  Since most of the block text is in lower case, we need to use something with a taller “lower case ‘x’ height”.
+EDIT: This could just be a Windows thing.  I see other screenshots in this forum and the blocks look fine.
+Last edited by BoltBait (Oct. 13, 2012 16:05:41)

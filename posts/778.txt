@@ -1,0 +1,2 @@
+Thanks everyone! Good to know most of you feel we're on the right track.
+It's looking like we'll release with no limit to the number of tags an author can create. But it should be easy to place a limit later if we need to.

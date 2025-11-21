@@ -1,0 +1,15 @@
+Lightnin
+http://nooooooooooooooo.com/
+Or, to quote Luke Skywalker:
+“No! That's not true?! That's impossible!!!!”
+How could it jump from one codebase to another!?
+It shall not pass.
+Can you give us steps to repeat it here? Also, what version of the player are you using?  (Hit F12, open console, and refresh page, or first open console and then browse to editor).
+And what version of Flash?
+http://helpx.adobe.com/flash-player/kb/find-version-flash-player.html
+That button really helped. Made the text come right back :3
+Anyway, I had NO idea how to get the information from the console. But I opened the flash version.
+I have windows xp 32 Bits. 10 Freaking years old.
+Flashing lights version 11.4.31.110. They flash. All the time.
+I browses with google chrome.
+And that means I'm captain obvious, kiinda.

@@ -1,0 +1,8 @@
+CT-OfficialScratcher wrote:
+The message is necessary, as that is indeed a reasonable issue.
+The user ID block doesn't even exist anymore.. it only existed in the 2.0 alpha, and now, people can just use this:
+if <(username) = [owner]> then
+...
+end
+Edit: Well I mean as in it's not in the block palette anymore, and it's not functional at all.
+Last edited by medians (June 3, 2023 22:47:00)

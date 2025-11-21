@@ -1,0 +1,1 @@
+I can see your reasons for the suggestion! However, I kinda like the idea of just keeping this one until we migrate, then renaming it “suggestions”, and adding in all (or most) of the existing forums that you currently see on the old site. Makes it easier to merge the activity.

@@ -1,0 +1,5 @@
+How can I “look inside” of one of my published projects without having it automatically save?
+I want to see the value of some variables when I'm running the chess game, but I don't want to publish it with my internal variables showing?
+Thanks.
+EDIT: Should I “unshare” my project before I look inside?
+Last edited by BoltBait (Oct. 11, 2012 20:02:56)

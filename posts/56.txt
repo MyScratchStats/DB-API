@@ -1,0 +1,4 @@
+I'm able to edit everything okay on Win7 Service Pack 1, and Chrome 21.0.1180.89 m.
+If you're getting error messages in the developer console, those would be super helpful.
+Thanks!
+Adam

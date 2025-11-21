@@ -1,0 +1,6 @@
+nick3883 wrote:
+it is 2022 and there are still some bugs.
+one bug that was in one of my projects was, what is your name, it pops up every time I touch the keyboard,
+I don't know what is but I put the “what is your name” block, and got rid of it. but it's still there, I refreshed the page and it wont go away
+scratch version 3.0
+this was from 10 years ago

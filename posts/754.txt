@@ -1,0 +1,3 @@
+@Bolt: That's perfect! You keep a public version,
+and
+a draft at the same time.

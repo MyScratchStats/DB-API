@@ -1,0 +1,2 @@
+When you edit your “About Me”, you may have to edit it a couple of times for it to stay. When you edit your “What I'm working on”, it dissapears on refresh.
+Last edited by wolvesstar97 (Oct. 2, 2012 11:02:26)

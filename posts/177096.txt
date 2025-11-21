@@ -1,0 +1,6 @@
+We need a turbo mode block. Think of all of those games that need turbo mode, but people don't know about turbo and just leave it. Also, in some games, you can cheat by using turbo mode, which is frustrating when it uses cloud data.
+It should be formatted like the camera block, Toggle turbo mode (on/off) and also <Turbo mode?> for putting into operators.
+This could be used for games where the terrain loads so that turbo mode is turned on during loading, then turned off afterwards.
+Anyone Agree?
+edit: this is super old and necroposted on, the run screen without refresh makes this totally useless imo, but you can still support this if you want.
+Last edited by JamesOuO (April 27, 2015 22:06:59)

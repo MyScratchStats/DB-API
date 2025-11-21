@@ -1,0 +1,3 @@
+We've just updated
+alpha.scratch.mit.edu
+with a snapshot from the old site database. This means recent projects from the old site should now be available. All comments posted to the alpha site before today should be erased, along with views / love its / etc.

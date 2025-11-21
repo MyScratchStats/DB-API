@@ -1,0 +1,1 @@
+I showed John the problem that happens on Windows machines that have Mac fonts, and he's going to look at setting the font dependent on OS (not just on what's available).

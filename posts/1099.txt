@@ -1,0 +1,6 @@
+Hardmath123
+Oh yeah, I forgot about that.
+I still prefer my way, because you're loading extra data if you don't display what's below 150px. They should use both together, so that you both have the size and content restrictions.
+I see your reasoning. It makes sense. But, have you seen how many people complain about allowing only 400 characters and 2 lines? So, how many lines, in natural size, can fit in the 150px? And how many “i”s can fit in 1 line? I think a way to come to a good char/line restriction is (isPerLine * linesIn150px).
+EDIT: I was able to get 9 lines into 150px, and 240 characters on a line. So that's a limit of 2160. Maybe we could round down all the way to only 2000.
+Last edited by scimonster (Oct. 17, 2012 15:13:10)

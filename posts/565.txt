@@ -1,0 +1,6 @@
+scimonster
+when stop pressed
+forever
+do something
+Kinda defeats the purpose.
+well true….

@@ -1,0 +1,1 @@
+It's a flash error- without clicking on the actual project, it doesn't sense that you are using it and not trying to scroll. However, with the new green flag thing, it should be fine, I guess it's Linux. I dont have it, so I cant test.

@@ -1,0 +1,2 @@
+Yeah, I've noticed that as well.
+They probably have it set up where if there is a new comment at all on your project, it notifies. They'll have to change that later, I suppose.

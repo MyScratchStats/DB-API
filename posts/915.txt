@@ -1,0 +1,1 @@
+Well, I'm also pointing out that the scripts now overlap with each other.  This is because the space between scripts is not also scaled up with the text itself.

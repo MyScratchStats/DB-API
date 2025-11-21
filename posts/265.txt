@@ -1,0 +1,2 @@
+I see what you mean; using vector graphics can feel different when making certain types of projects. And I'm sure the Scratch Team doesn't necessarily want people to be forced to use external paint editors (like MS Paint, GIMP, Paint.NET, etc.) just for making 8 bit or other games. I think having a raster option could be a good idea for making certain types of costumes or backgrounds. But who knows - maybe the paint editor will be diverse enough that we won't need a raster editor? I can't really say for sure.
+Last edited by Lucario621 (Sept. 27, 2012 17:10:50)

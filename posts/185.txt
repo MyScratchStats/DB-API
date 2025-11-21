@@ -1,0 +1,1 @@
+Floating top bars always tend to have sizing and layering issues on mobile devices

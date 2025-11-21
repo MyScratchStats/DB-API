@@ -1,0 +1,5 @@
+zsiegel
+It seems to be that the current hour and seconds from the current block aren't working.
+You are right!  Thanks for pointing that out.  The interesting thing to me is that old projects that are using them work fine, like this one:
+http://alpha.scratch.mit.edu/projects/10003627/?mode=player
+It's only when you try and use the drop-down menu that it breaks and refuses to report hours/minutes/seconds.

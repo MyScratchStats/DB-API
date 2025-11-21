@@ -1,0 +1,3 @@
+The problem with private projects has to do with security, I'm afraid.
+NaughtyScratcher makes project “ScratcherX sucks!”, and shares it to ScratcherX only. Not cool. Of course they would hopefully flag it, but you'd be surprised at how many people don't flag projects that are mean to them, opting instead to retaliate.
+Since it's all happening in private projects, no one else flags them, and you have super-bad dramafest explosion.

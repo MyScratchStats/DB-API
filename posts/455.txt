@@ -1,0 +1,6 @@
+Right, but what if I want a clone to say “Hi” until it is deleted (i.e. project ends)? Intuitively, I would assume the speech bubble would be deleted when the clone is (if I put in toast, it will pop out at some point), so I could just do say . The unintuitive but functional way would be
+forever
+say [Hi] for (0.01) secs
+(Put in toast, take it out in a millisecond, and if it's not burnt repeat the process).
+IMO Scratch should be intuitive for everyone.
+@LS97: Nice oxymoron. Bugs are never nice.

@@ -1,0 +1,3 @@
+BoltBait
+I was playing someone elses project and was again prompted when leaving that page.  I didn't makes any changes to their project other than running it.  I never clicked the “see inside” button.  I should NOT have been prompted.
+I disagree with this. Sometimes i've been playing a Scratch game, and accidentally clicked away or closed the tab, and my game data was lost. It should be that it always prompts you before leaving a project page, whether playing or editing.

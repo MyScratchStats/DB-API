@@ -1,0 +1,12 @@
+I just made my first 2.0 project,
+Bit Art
+. A few glitches/bugs/annoying things I noticed were:
+Either comments aren't implemented, or they're not intuitive; either way I didn't figure out how to add them…
+I couldn't find the  C block.
+When LS97 commented and I clicked on the @link, I was taken to an error page:
+http://alpha.scratch.mit.edu/users/[object%20Object]
+Cloud lists are kind of slow, there should be a cloud broadcast facility so that you can download a large list on demand, rather than cache every few seconds.
+Cloning is awesome! I love how clones auto-delete when you press the stop button, and don't show up in the palette. Well though-out. But please make sure all speech bubbles are removed when the clones are deleted, though; I once had a set of 121 speech-bubbles of clones which were deleted, and no idea how to delete them. I had to start afresh.
+No change in the newsfeed on the main page for some reason
+EDIT: 6. My list doesn't work…
+Last edited by RjLance (Jan. 20, 2016 14:48:32)

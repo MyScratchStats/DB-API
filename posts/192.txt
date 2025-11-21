@@ -1,0 +1,2 @@
+I'm doing a school project on augmented reality, and I wondered, is it possible to do this sort of thing on scratch? i.e: You show the webcam a picture, and something happens?
+All suggestions welcome!

@@ -1,0 +1,9 @@
+Here's how:
+1. Go to a project
+2. Tap on a comment
+3. Tap reply
+4. Enter username and password
+5. Tap enter
+6. Click the X (I know it still shows you as not logged in)
+7. Go to the forums
+8. Logged in.

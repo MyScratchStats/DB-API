@@ -1,0 +1,2 @@
+I'm not sure if this is just me, and I don't have any time to look around to see if anybody else has had the same bug(s) but for me, the search bar and my user icon and such is over lapping the page, and is not up where the help button or stuff should be, instead it is directly below the bar. And in user messages the buttoms like Comments, Admin and stuff aren't working.
+Thanks for reading

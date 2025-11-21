@@ -1,0 +1,6 @@
+Lightnin
+As I understand it, the reason for this block is to follow a pretty standard convention used by other systems. It's similar to
+“Unix Time”
+.
+This is a little easier to work with for some things than the other “local time” blocks. For example, if you want to know the order of people who answered your survey, capturing their local time would mean that you'd have to then convert all the times to UTC to make an accurate comparison. Days since 2000 makes that kind of before / after comparison much more simple.
+And why use 2000 instead of the much more useful and standard Unix time 1970?

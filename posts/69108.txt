@@ -1,0 +1,1 @@
+I've noticed that searching works, but only when you press enter. It doesn't work when you click on the magnifying glass. I hope that helps!

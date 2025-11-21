@@ -1,0 +1,5 @@
+Bug 64! Keep 'em coming.
+http://scratchexp.media.mit.edu/issues/64
+Btw - check out this bug report for an example of a decently well documented bug, if I do say so myself.
+Would you be interested in filing bugs directly in the tracker?
+Last edited by Lightnin (Oct. 2, 2012 11:12:09)

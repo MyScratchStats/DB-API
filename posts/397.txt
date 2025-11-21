@@ -1,0 +1,1 @@
+I had the same problem. I'm thinking that it is the resolution or physical size of the screens on our computers. I'm using a laptop and having this problem. Sometimes websites are designed on a bigger screen and aren't used to fitting in smaller areas.

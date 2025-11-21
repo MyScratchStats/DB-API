@@ -1,0 +1,2 @@
+i use linux mint and it saves it as sb2 and 1.4 can't read sb2 and says “could not read project; file may be damaged: (bad header)” can anyone help me?
+Last edited by cookies001 (Dec. 17, 2016 21:54:17)

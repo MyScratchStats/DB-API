@@ -1,0 +1,4 @@
+Yes, a revert function.
+This would be very similar to the saving system on OSX Lion and Mountain Lion.
+EDIT: Maybe an option to revert to past versions as well? Or maybe that'd take up too much server space?
+Last edited by jji7skyline (Oct. 8, 2012 22:13:17)

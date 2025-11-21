@@ -1,0 +1,4 @@
+I think there should be an option to “Export” list data when the project is running in normal mode.
+That way, when a user plays my chess game, for example, the final list of moves can be exported to a text file.
+I see that this can be done in “see inside” mode, but I would like it to be possible during normal running mode.
+Now, something that I haven't given any thought to is if there would be value in allowing someone to “Import” list data while running in normal mode.  Thoughts on that?

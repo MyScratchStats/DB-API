@@ -1,0 +1,7 @@
+scimonster
+It can also be used for making something unavailable before or after a certain date, as stated on the wiki page.
+I think it would be better to have
+(days since [1 v] [1 v] [2000])
+, so you can set the date, even into the future! It would report negatives for the future.
+Hmm, that's a good idea! I think that would be a lot more useful - though I'm not sure how difficult it would be to implement that block.
+Last edited by Lucario621 (Sept. 21, 2012 18:29:55)

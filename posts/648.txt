@@ -1,0 +1,3 @@
+scimonster
+I used the enter key to add half of the static list items in my projects!
+Yeah, we definitely need the enter key. But you could use a text editor and import that file instead…

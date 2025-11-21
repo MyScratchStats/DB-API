@@ -1,0 +1,10 @@
+LS97
+mres
+LS97
+And why use 2000 instead of the much more useful and standard Unix time 1970?
+We thought about calling the block “days of Scratch” (or “Scratch time”) and making it report the number of days since May 15, 2007 (the day that Scratch was launched).
+Do you think that would be better or worse than “days since 2000”?
+It's cool in that it gives an easy method of comparison for Scratch-related events.
+However 2000 seems a lot more standardised and therefore clearer.
+I agree with LS97, 2000 is also easier to work with. If you want to find out how many days have passed since your birthday, it's easier to subtract the number of days between 2000 and your last birthday, than to find the number of days between May 15th, 2007 and your birthday.
+How accurate is this? Does it consider leap seconds, too? (just out of curiosity).

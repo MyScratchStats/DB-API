@@ -1,0 +1,9 @@
+CT-OfficialScratcher wrote:
+medians wrote:
+Broo why is he giving me notifications.
+Anyway, you can do this in combination with the days since 2000 block because it always reports in UTC, but that's difficult, so it could be like this:
+(current [hour v] in UTC [+ v] () ::sensing) //meant to put it outside the dropdown lol
+(difference from UTC time ::sensing)
+Yes that would work. How to get this implemented?
+Maybe the current block could stay there, or be converted to this?
+(current [hour v] in UTC [+ v] (difference from UTC time ::sensing) ::sensing)

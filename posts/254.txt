@@ -1,0 +1,11 @@
+Here is what he said:
+RedRocker227
+Well you know how you can visit the login page
+I visited that, and I entered my details, and it came up with “You cannot log in yet” and stuff
+So I left the page, and then about three hours later Lightnin came on to my project and asked if I'd been browsing it
+So I went back on it
+And it turned out it had actually logged me in, even though it originally said I wasn't allowed
+Then I logged out before I possibly got in trouble (thinking about it I should've checked if I could now visit pages other than the login and feedback pages, but I didn't try)
+And now I'm scared I'll get banned for hacking ooo:
+But yeah
+I've tried to recreate it by logging in, getting the error message, then refreshing, since it seems like that's how I got in the first time, but I haven't been able to recreate

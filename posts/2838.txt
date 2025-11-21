@@ -1,0 +1,2 @@
+it's very easy to rename the sprite, all the reporters connected with said sprite will still function normally.
+that being said, it's a big problem.

@@ -1,0 +1,3 @@
+scimonster
+The first one, about changing watcher statuses, makes sense from a programming point of view: it refreshes the palette because you changed something. The second is just wrong.
+But in programming you refresh things all the time without actually redrawing the whole thing…

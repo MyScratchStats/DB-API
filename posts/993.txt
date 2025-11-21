@@ -1,0 +1,7 @@
+", <, >, & and a couple other characters are double-sanitized when the HTML for comments is produced.
+" (input) => &quot; (sanitization 1) => &amp;&quot; (sanitization 2) => &quot; (final display)
+The reason this happens, is kind of unobvious, but since I was messing with HTML sanitization a couple days ago I'll take a stab at what happened: you sanitized alt after everything else. So all your character codes were sanitized, too.
+input.replace(/</g, "&lt;").replace(/&/g, "&amp;")
+should be replaced by
+input.replace(/&/g, "&amp;").replace(/</g, "&lt;")
+Hope that helped.

@@ -1,0 +1,12 @@
+kayybee
+stevetheipad
+jji7skyline
+I think impersonations could be a big problem.
+I think so too. I really wish the username reporter were available, it would eliminate this problem.
+Except the username reporter would give more problems… however, those are internal problems, like
+“if username=stevetheipad
+broadcast ”enter chat“
+else
+broadcast ”YOU ARE NOT ALLOWED“”
+but those would be easy to get around because it's possible to just go in and change the code and change the username to “kayybee” or “JJROCKER” etc.
+That would simply be a vioation of the guidelines, you'd flag the project and it would be deleted.

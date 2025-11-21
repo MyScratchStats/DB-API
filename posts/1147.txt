@@ -1,0 +1,6 @@
+Vista4563
+Keep in mind the “clone startup” block would also have to be modified to keep up with the new blockspecs.
+[clone {clone ?} startup]
+Disagree.
+Remember, a “CLONE STARTUP” script is located inside the sprite that is being cloned.  And, it gets fired off only for that specific clone when that clone is created.
+So that won't be necessary.

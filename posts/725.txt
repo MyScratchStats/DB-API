@@ -1,0 +1,5 @@
+Hardmath123
+But that will involve storing many copies of the same project in the cloud, right? Or if anything, a large set of changes?
+Anyway, I personally see nothing wrong with a save button. You can keep making things easier and easier for new users, but it soon gets out of hand. Everyone has to learn to save their work, it's just one of those things. It's like handing a first grader a pen to write a story: it's just more responsible to let them erase, otherwise they'll either waste a stack of paper, or end up with something illegible or not as good.
+I disagree. I think that Save is something that we've all had to learn, but I'm not sure that it's a necessary concept for the future, or a “powerful idea.” Just because that's how it has always been done in the past, doesn't mean that's the best way to do it in the future (although, it does mean that changes must be considered carefully).
+Remember how many times you've lost work because you didn't save? Or saved a file someplace that you couldn't find later?   That's an aspect of “saving” that everyone has experienced that it would be nice to leave in the past.

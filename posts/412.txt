@@ -1,0 +1,2 @@
+Is there anyway it's possible to verify the user? Such as for one survey, it asks for your username, and so it can show who voted last. However, I could have put in any name…
+I know that if the projects can access usernames people can block others from viewing the project, but is there any workaround to making sure someone is who they are?

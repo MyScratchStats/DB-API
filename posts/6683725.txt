@@ -1,0 +1,7 @@
+nick3883 wrote:
+it is 2022 and there are still some bugs.
+one bug that was in one of my projects was, what is your name, it pops up every time I touch the keyboard,
+I don't know what is but I put the “what is your name” block, and got rid of it. but it's still there, I refreshed the page and it wont go away
+scratch version 3.0
+This here is one of the dumbest replies to a bug in the entire forums. For one, you probably didn't even realize that everyone before you was on Scratch 1.4/2.0, which had many different problems from 3.0.
+Then you proceed to talk about bugs that aren't related (not like the bug even exists anymore) to the OP's bug. If you had bugs to report, you should've done it in a new topic and not looked for a topic with an ID below the 100s…

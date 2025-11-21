@@ -1,0 +1,9 @@
+@Natalie:
+I like that clones go to their creator, that eliminates the need for a “go to: creator” option in the “go to: sprite” block…or a much much more complicated mechanism.
+If clone didn't go to their creator regardless of the type of clone, this could not happen:
+http://alpha.scratch.mit.edu/projects/10001737/?mode=player
+My only suggestions:
+Clones should have the ability to copy themselves (not the sprite they are a clone of) and
+Clones should go to their creator upon creation (keep it the way it is now)
+I am totally satisfied with Scratch 2.0 if this is added.
+Last edited by illusionist (Oct. 18, 2012 21:28:47)

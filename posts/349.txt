@@ -1,0 +1,4 @@
+Lightnin
+There was a thread about this in the old testers forum - I think the consensus was for this new way of doing it. For one thing, if you open multiple tabs of projects a lot, flash can start to freak out if they all try playing at once. Although, that seems to be working better with more recent versions of the flash player on the new site.
+For another, flash won't allow the project to get keyboard focus unless the user clicks on it first. So that means if you have the project running by default when the page loads, but without focus, when you go to hit that space bar to advance to the next page, your browser gets the key press event and scrolls down and pops the project off the top of your screen. XD
+Hmmmm…I see. I still like my idea above more, but I see.

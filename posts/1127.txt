@@ -1,0 +1,3 @@
+Lightnin
+This does look like a bug.  I'll add it to  the bug tracker. Thanks for reporting!
+I commented on the project but not here. It's not a Scratch bug; his image isn't 480x360, so it leaves a gap.

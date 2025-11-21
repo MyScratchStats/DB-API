@@ -1,0 +1,2 @@
+Hmm, seems like as long as we are having a small player, the behavior of shift-click should be consistent. This would be good to file as a bug.
+(Although Turbo mode is cool, I'm hoping that people will rely on it less now that they'll be able to make atomic blocks. I think it's confusing for new users, and the name doesn't really communicate the function very well.)

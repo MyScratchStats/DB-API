@@ -1,0 +1,9 @@
+forest
+I haven't explored all the features yet. one thing that was really frustrating was finding the menu to delete a background.. or a costume for a sprite.. i eventually found it but would not stay on the screen long enough for me to use it .
+Shift clicking sometimes works better than right clicking.
+forest
+Also in general layout..is it still possible to view who has loved and favourited a project? (not just a function to love or to favourite a project).
+Not at the moment.
+forest
+Is there still the capability to create a new gallery.. as that was not obvious.
+Yes. Go to My Stuff (the folder icon), click galleries, and click + new gallery.

@@ -1,0 +1,4 @@
+cheddargirl
+Hey, how goes the Bucketfill function? I tried it on one of my projects and it failed to fill in closed spaces properly (save for a few areas) and transparent fill causes my browser to freeze.
+http://alpha.scratch.mit.edu/projects/10001942/
+The fill (including transparent fill) is definitely still very buggy on the alpha. We have plans for bug fixes and improvements to the interaction that are in our queue. The next paint editor update should incorporate some of these things. (Apologies - I know it's been a while since our last paint editor update)

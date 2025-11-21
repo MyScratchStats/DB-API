@@ -1,0 +1,6 @@
+v158
+Changes:
+- new block colors (“More Blocks” changed; switched events and control)
+- bug: changing cursors in the paint editor crashed the Flash plugin on Linux (worked around for now)
+- added a font fallback system to hopefully fix a problem with disappearing block text reported by a user (on Win XP, we think)
+- bug: hour/minute/second reporter

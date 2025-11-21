@@ -1,0 +1,9 @@
+http://nooooooooooooooo.com/
+Or, to quote Luke Skywalker:
+“No! That's not true?! That's impossible!!!!”
+How could it jump from one codebase to another!?
+It shall not pass.
+Can you give us steps to repeat it here? Also, what version of the player are you using?  (Hit F12, open console, and refresh page, or first open console and then browse to editor).
+And what version of Flash?
+http://helpx.adobe.com/flash-player/kb/find-version-flash-player.html
+Last edited by Lightnin (Oct. 10, 2012 12:31:22)

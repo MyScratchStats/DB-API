@@ -1,0 +1,6 @@
+I went on my profile page today and it seems that certain characters like ™ are being shown improperly.
+You might want to check to see if you have the right character encoding, or what have you.
+Edit: Or maybe it's the fact that I explicitly entered in the character rather than (tm). Even still, it's a minor problem, but one that could be fixed (probably by specifying UTF-8 as a meta tag?).
+Here's some screenshots:
+————————————————-
+Last edited by Vista4563 (Oct. 11, 2012 20:20:00)

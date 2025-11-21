@@ -1,0 +1,7 @@
+v 161
+Changes:
+- tweaked block colors (with input from Natalie and testing on four monitors)
+- changed backpack arrow to match tips arrow and made it flip
+- changed “Help” to “Tips” (Champika and Natalie: The “Tips” button currently opens the help page AND calls showTip() with an empty string argument. Let me know what I should pass to open the tips window for top-level help.)
+- added placeholder icons for undo/redo (they look bad, but they're the right size to check layout)
+- tweaks to the category selector (e.g. text is bold for selected category only)

@@ -1,0 +1,4 @@
+BoltBait
+I would rather they just eliminate the small player.  I'd rather it was just a clickable thumbnail that would then take you to the actual project page in order to play the game.
+From my perspective, it looks like the ST is basically going with the “YouTube” approach, so projects can be played at many different resolutions - whether it's full screen, normal size, or “minified”. I'm not sure how well it works with Scratch… but I guess vector graphics helps with that idea. Obviously not all types of animations and games will look great on a person's user page - but hopefully you could make some kind of introduction or welcoming project to put there for your visitors.
+Optionally, I think it would be nice if you could feature other people's projects too (as I think some other Scratchers have suggested).

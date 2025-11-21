@@ -1,0 +1,16 @@
+Lightnin
+LS97
+They do, but not to the public I think, unless you properly press save.
+That is a super interesting assumption!
+Nope, they live update.  Also, the save button is going away soon. (No saving allowed!)
+It's going to be tough for some of us, but we need to embrace the new world of autosave.
+I think that's less confusing for new users, and better all around.
+Aww, I liked my assumption more!
+Are you really sure you want to do this?
+Remember that big projects are always updated, but also constantly viewed. What happens when someone is updating their project and suddenly a random viewer tries to play a temporarily broken project? What a famous person wants is a project that is online all the time, that works, and that can be updated freely.
+There are a couple of solutions to that, using the system that is made available to them:
+• They can un-share the project while they work on it – this isn't what you want for a popular project
+• They can copy the project and work on the new one, and then take off the old one when they share the new – this is definitely not a good idea because you don't want the URL changing on every update and glitch fix
+• They can download it to the offline editor (assuming it's still planned) and then re-upload it – what a hassle, and not the point of so much work on an online editor!
+By removing a button you're adding more tricky steps. Not exactly what I envisage for a kids community.
+Last edited by LS97 (Sept. 29, 2012 05:49:15)

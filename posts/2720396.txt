@@ -1,0 +1,2 @@
+This is from before 2.0 was released and most of the suggested changes have now been made, and non-bold text will be done in 3.0, so this is already implemented.
+Last edited by stickfiregames (July 10, 2017 12:05:17)

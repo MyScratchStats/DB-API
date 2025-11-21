@@ -1,0 +1,9 @@
+stevetheipad
+LS97
+I think it's a good idea.
+Many projects might have sounds or stuff you don't want starting while you're still reading the project notes or have another tab active. It prevents a project without a main menu to start a race (etc) without you!
+It's true that some people like to keep stuff the way it is. That's why in general I am greatly in favour of having lots of options in a new version that allow you to almost make it feel like the old one. Then as the versions gradually update you can take the options away, knowing which one to keep thanks to what users have selected.
+Of course there's a pretty slim chance the the dev team will spend so much time on allowing options, especially since it's primarily a “kids community”.
+On user pages and the explore page, I like it like this. However, on a project page, you went to the page to view the project, so it should automatically start there.
+Ah, that's true!
+I think that would be the best approach!

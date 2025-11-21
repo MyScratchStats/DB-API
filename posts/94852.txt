@@ -1,0 +1,1 @@
+Yep, I do not need a costume block either. A scene block is more important because we don't need to know the name of a costume.

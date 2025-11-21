@@ -1,0 +1,16 @@
+Paddle2See
+Good stuff!  I spent most of my time working with the pen tool, making shapes - modifying them - filling them and so on.  I was able to make some nice shapes and the auto-smoothing worked well.  I found it easy to move points within shapes using the modify tool (if that's what it's called).  Adding new points worked most of the time but had difficulty at other times.  Deleting points was not intuitive - but I had read in this forum that shift click was the way to go so I tried that and it worked.
+Thanks for taking the time to try it out and write up your feedback. Points can actually be deleted just by clicking on them - we're hoping to add a variety of cursor helpers and other hints to make some of these things more obvious.
+Paddle2See
+One issue I see, though, is that of making more complex shapes.  In most vector editors, you can group entities together to make a set of primitives act as a unit.  Sometimes you can even group splines together to share a common fill boundary.  I'm curious if we are going to have features like that here?  I often find that I want to start with a simple curve, perhaps duplicate it, mirror it, then join it to the first curve to make a symmetrical closed shape, then fill it  How can I do that here?
+This one is challenging. We've spent some time thinking about it here as well and we have improvements to the paint bucket and the path tool in the works.
+Paddle2See
+I have found that when I fill an open shape, it leaves the boundary line off the open segment - and I think that's good.  Because then, I can overlap a couple of open shapes (filled with the same color) and kind of mimic a more complicated fill.  But, unfortunately, if I use the modify tool to adjust any of the points of the filled open shape - it automatically gets closed.  That may be helpful in some circumstances - but is not a help in the case I just described.  Perhaps there should be an option to close an open shape rather than have it close whenever it is edited.
+This is actually a bug - it shouldn't do that.
+Paddle2See
+I can see good progress here - and I am encouraged by what I see.  It's still going to be a tough job balancing functionality with simplicity.  Maybe there could be advanced functionality available off of a context sensitive alt-menu, similar to how things work in the script editor?  Things like “Close”,“Mirror”,“Group”,“Move to Layer” and so on.
+We currently have Group and Layer and Mirror implemented, Close needs some improvement:
+Group/ Ungroup: To group objects together select the set of objects you want to group and you should see a group tool appear at the bottom of the tool palette.  To ungroup, select the group and you'll see an ungroup icon appear.
+Layer up/ Layer down: Select the object and you'll see the layer up/ layer down icons appear - of course these push them all the way to the bottom layer or all the way to the top layer.
+Mirror: Select the object with the arrow tool and then drag the left or right control point over to the opposite side, or drag the top or bottom control points in a similar way.
+Close: currently, if you select a path with the reshape/ modify tool and then drag the end point over to the start point you can close it, the start point will vibrate a bit to show you you're making a connection. Pulling the start to the end currently doesn't work …but will.

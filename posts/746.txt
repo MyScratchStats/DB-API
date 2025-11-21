@@ -1,0 +1,3 @@
+So, I was trying to fill a scene with black on the paint editor, and then my browser told me that Adobe Flash had crashed!
+My OS: Ubuntu 12.10 Beta 2
+My Browser: Mozilla Firefox

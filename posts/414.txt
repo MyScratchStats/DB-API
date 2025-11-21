@@ -1,0 +1,7 @@
+I've compiled a list of all the bugs I've found in the Paint Editor.
+-No undo
+-Fill cannot be transparent
+-Clicking a color reverts to the fill tool
+-Occasionally save will not work, your drawing is then lost
+-Artifacts are left on rescale, go away with zoom
+-Resizing causes massive temporary distortion

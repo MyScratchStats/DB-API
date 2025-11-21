@@ -1,0 +1,4 @@
+Well if you haven't noticed yet…it appears that a white line appears when I paint something in the background and use the scroll background block. The white line appears in here:
+(link to project)
+Here's a few snapshots if you do not want to click the link:
+Any known reason to why this happens and is there any way to fix it?

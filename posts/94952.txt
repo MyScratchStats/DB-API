@@ -1,0 +1,4 @@
+PERCE-NEIGE wrote:
+You have the script (in the blue blocks section):
+“name of costume” of….
+Yes, the costume name is available from the sprite attributes block under the Sensing tab.  It's one of the sprite attributes you can choose from the dropdown menu.  Since this feature is currently available, there seems little reason to keep this topic open.

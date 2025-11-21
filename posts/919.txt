@@ -1,0 +1,2 @@
+If someone knows the initial password but doesn't have specific account access can look around the site, yes.
+This includes looking at projects, user pages, the forum, etc.  They just can't save projects, post here, or make project comments.

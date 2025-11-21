@@ -1,0 +1,1 @@
+This would be great! I was working on making a project by showing which areas were in sunlight vs. those which weren't, but I quickly ran into the problem that local time is used, rather than standard time.

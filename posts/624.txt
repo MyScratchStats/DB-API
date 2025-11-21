@@ -1,0 +1,2 @@
+Actually, I think we may add the ability to flag data submissions. If that's the case, then people can flag stuff even without knowing who it was that created it (but we will be able to tell).  So that's one way to think about this, but I recognize that it doesn't really empower the creator to take as much responsibility for what's going on, since it doesn't provide them with the info about who said what exactly.
+I worry that things like chatrooms could be really problematic actually.

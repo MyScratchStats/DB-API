@@ -1,0 +1,1 @@
+I agree that a sprite should be able to clone itself with all variables and costumes intact.

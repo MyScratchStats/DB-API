@@ -1,0 +1,5 @@
+Champ99
+We don't currently have plans to support controlled layers. We're trying to balance simplicity and control. Can you describe (or even better create a sample project) with the use case where you think controlled layers would be most useful?
+Thanks!
+I was trying to test out coloring in the editor, and I'm finding that I have to keep forcing the lineart to the front at all time and forcing certain colors to be on the bottom
+http://alpha.scratch.mit.edu/projects/10004731/

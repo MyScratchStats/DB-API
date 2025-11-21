@@ -1,0 +1,2 @@
+Ok, if I do encounter the bug again, I'll post here with steps and things.
+It's still really creepy, the same bug, two different codings, two different causes

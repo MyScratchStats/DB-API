@@ -1,0 +1,21 @@
+Lightnin
+wolvesstar97
+Whenever I try to click from the homepage to the forums to making a project, I get a popup dialouge that says “Are you sure you want to leave this page?” with the content as “null”.
+Annoying.
+woah, that sounds like a good one! Can you
+take a screen shot
+, and post it here? Or you could email it to
+help@scratch.mit.edu
+if that's easier.
+Also, what OS, browser (name and version) are you using?
+And, just so I know, are the steps to reproduce as follows:
+1. Click create, start making a project
+2. Click forums,
+3. Dialog appears (with title, but contents are Null?)
+Please correct me if I've got it wrong! Thanks.
+Edit: Btw, awesome sig.
+I dont normally use IE, but I'm on a school computer.
+I'm using windows 7, IE 9.
+It happens whenever I try to go from Create to Explore to Discuss to Help to the homepage.
+And thanks
+Last edited by wolvesstar97 (Sept. 27, 2012 21:35:29)

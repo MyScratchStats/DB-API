@@ -1,0 +1,2 @@
+Whenever you toggle variable watchers or drag blocks back into the palette, the scroll bar goes back to the top. I don't know about you but personally I find it annoying
+BTW when you try to edit a drop-down of a block on the palette and the scroll bar isn't at the top, it won't let you select the list for the drop-down; it sends the bar back to the top without any change. I guess that's a bug

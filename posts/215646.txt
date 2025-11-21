@@ -1,0 +1,1 @@
+Yeah it is something I want.  Right now you can just do “say <var = var>”

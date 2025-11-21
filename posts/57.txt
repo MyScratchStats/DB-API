@@ -1,0 +1,1 @@
+I can now create, view, and edit/see inside projects. I just can't delete and unshare. I'm not sure what you mean by developer console.

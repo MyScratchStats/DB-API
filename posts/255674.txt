@@ -1,0 +1,5 @@
+turkey3 wrote:
+It's not supposed to be smooth in turbo mode because turbo mode only refreshes the screen when the script is finished. It's the same thing as running a glide block without screen refresh— anything that takes time gets screwed up, as it should.
+Edit: @DerAxeEffect: please do not post on a topic from a year and a half ago.
+Yup. I think there's a misconception that turbo mode is just “go faster” mode - which isn't exactly the case, so things will behave differently.
+And to echo turkey3, check the date of the thread you're posting on. If it's old, please make absolutely sure that there's a need to do so and what you're posting is still relevant.

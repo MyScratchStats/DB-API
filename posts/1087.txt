@@ -1,0 +1,8 @@
+Hardmath123
+Sci's way:
+Add this here
+div.postsignature {
+height:150px;
+}
+All it takes, the overflow is hidden by default!
+No, use max-height.

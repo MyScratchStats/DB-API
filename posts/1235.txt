@@ -1,0 +1,8 @@
+v 166
+Changes:
+- scroll wheel support
+- Sammy's pen color (Natalie: it might be nice to make it little darker, say, brightness 57)
+- when click “share”, go to project page
+- when click share, update stage (private -> public)
+- add space to media column and tweak layout
+- grey out the undo button

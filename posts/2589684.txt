@@ -1,0 +1,9 @@
+Since this has been bumped, I'll explain what happened here.
+In Scratch 1.4, projects could have unlimited tags. This led to a problem with spam tags like the infamous “waffles”, which the ST fixed in 2.0 by limiting projects to 3 tags*.
+However I've always suspected that the problem wasn't the lack of a tag limit, but the fact that anyone could tag any project and tags could be upvoted. That means that every remotely popular project had tag spam even if the creator wasn't a spammer, and also some people posted tags just to try and get them upvoted. There were also
+a few projects that existed just to get people to tag them as much as possible
+.
+I think a better fix would have just been to only allow the creator to tag projects. A tag limit might not even be necessary after that, but even so it shouldn't have been as low as 3. 10 tags seems about right,
+here's a topic for increasing the limit
+.
+* Projects from 1.4 actually still have all their tags, but you can only see the first 3 of them.

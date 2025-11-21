@@ -1,0 +1,9 @@
+Lightnin
+justjess678
+Adobe version: 11.2.202.243
+OS: Linux 3.2.0-26-generic (32-bit)
+Firefox: 16.0.1
+Hope this can help you fix the bug
+Cool! Is that Ubuntu?
+justjess678
+I'm using firefox on bodhi linux, and I'm up to date, if that helps.

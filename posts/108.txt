@@ -1,0 +1,1 @@
+We found a small problem with thumbnails - I'm in the process of fixing it. Also, when you log in for the first time with the new database, you may notice a significant delay. We pushed some optimizations to deal with this, but please let us know if you continue to see these delays (it should happen only with the first time you log in).

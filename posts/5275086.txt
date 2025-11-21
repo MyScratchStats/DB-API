@@ -1,0 +1,8 @@
+Lightnin wrote:
+Hardmath123 wrote:
+Mind if I tell the guys at the AT's that? They're kind of curious about whether you actually care or not.
+Here's a longish answer: In general we like to be open - it's why we usually release our source code.
+So as long as accessing the editor that way doesn't lead to a lot of drama or confusion, it's ok. But we wouldn't really like to see it advertised widely, you know? And we wouldn't like people complaining that projects made with the alpha editor, which they were never really granted access to, don't work in the final release version.
+But as long as people don't go all crazy with it, it's no big deal. Feel free to quote / post this elsewhere, btw.
+Oh and btw, we're grateful for any help the AT folks would like to give us by bug reporting / security testing and what not. This code is still pretty raw, and it'll help to get more detailed and accurate bug reports on it once we open it up to the next wave of testers (I'm assuming most AT folks have signed up on Gobo's project).
+This post's ID is 777 wow

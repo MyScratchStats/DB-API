@@ -1,0 +1,6 @@
+stevetheipad
+Jonathanpb
+Local Time is an important variable to have, I'd like to see it put back as well ^^
+the current reporter is local time, what needs to be added is set time (like time zones).
+Agh oops, sorry :S
+I don't know how often set time would be used, but it probably wouldn't be too hard to implement

@@ -1,0 +1,1 @@
+Trying to click on “Create” from the forums with text in the box returns a “502 Bad Gateway” error.

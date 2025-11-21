@@ -1,0 +1,15 @@
+Champ99
+Points can actually be deleted just by clicking on them - we're hoping to add a variety of cursor helpers and other hints to make some of these things more obvious.
+Oh, cool, let me give that a try *click* Yep!  It's gone.
+Champ99
+Group/ Ungroup: To group objects together select the set of objects you want to group and you should see a group tool appear at the bottom of the tool palette.  To ungroup, select the group and you'll see an ungroup icon appear.
+Nice!  I see I can either select multiple objects by dragging  over multiple objects or by using Shift-click.   I love the “energy pulse” that sweeps through the group members when they become ungrouped.  However, when ungrouping, the individual members remain selected so if you go to move one, they still move as a group.  I found that confusing - maybe the individual items should be deselected after the ungroup.  Hopefully there will be undo/redo functionality at some point so an erroneous ungrouping can be corrected.
+I know you're not really looking for bugs yet - but I'll just let you know that I had some issues with the Shift-click method of selecting multiple members.  Sometimes the bounding box would do strange things.
+Champ99
+Layer up/ Layer down: Select the object and you'll see the layer up/ layer down icons appear - of course these push them all the way to the bottom layer or all the way to the top layer.
+Okay, I found the functions you are refering to very helpful (I think of them as the Go-to-Back and the Go-to-Front tools) - but that's not what I meant by a “layer”.  I was thinking of a “layer” as a larger groups of drawing objects that you can use to more fully control your drawing.  These layer groups can be made selectable/unselectable, visible/translucent/invisible, and arranged in order to affect rendering.  I use this kind of layer quite a bit in other bitmap/vector editors that I use outside of Scratch.
+Probably the thing I use them for most often is to “fix” a portion of the drawing in place so that it can no longer be selected so that I can work on another section on top of it or move other pieces in place without accidentally moving parts that I'm happy with.
+However, a full-blown layer system does add a lot of complexity to an editor and might be frustrating to a beginner if they try to select objects that are on a layer that is not currently selectable (for example).  Maybe there are simpler ways we can achieve some of the same functionality - such as a transparent “tape” tool that would visually show that an object was temporarily unselectable.  The user could then “tape” down sections of the drawing that were complete.  Drag selects would not work on a taped object and the the user would have to click on them and select the “untape” option before anything else could be done.  The user could use this approach to build up a more complicated drawing.  It wouldn't have the power of a true layer - but it might let you do some of the same kind of things.
+My latest creation with it -
+a kayak (of course)
+Last edited by Paddle2See (Oct. 10, 2012 06:57:12)

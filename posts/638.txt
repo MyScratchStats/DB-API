@@ -1,0 +1,6 @@
+Lucario621
+…since I think some new scratchers might find it useful to have the stage automatically cleared when you first run the project;…
+The thing is, it blanks before the project is even run
+Lightnin
+So is this the way it's always been? Or maybe the project itself is clearing when it initializes?
+Hmm I don't know actually, it could have been this way already O_o

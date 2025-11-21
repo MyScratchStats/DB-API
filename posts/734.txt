@@ -1,0 +1,5 @@
+Lightnin
+Do you have any thoughts on tags?
+I like the idea of limiting them to only developer generated.
+I also like the idea of limiting them to a fixed number (5, 7, or 10 would be fine with me).
+I would definately keep them.  I think they would really help the search engine.

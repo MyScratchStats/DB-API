@@ -1,0 +1,3 @@
+This appears to only affect Chromium on Linux (or there is a workaround for Chrome on other platforms, but not Linux) Pretty annoying - when you are viewing a project that uses the space key for input, pressing space does whatever it's supposed to in the project, but also scrolls the page down, so you can't see the project anymore.
+http://code.google.com/p/chromium/issues/detail?id=49218
+If anyone else sees this one, please let me know. Also, if you don't mind starring the bug linked above (to the left of the title / description), maybe the devs will decide to try to address it.

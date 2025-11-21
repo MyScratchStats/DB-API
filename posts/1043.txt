@@ -1,0 +1,4 @@
+Yes, I've rebooted, cleared my cache, forced refresh the page.  I've even tried hooking up to a different internet connection in another city… nothing.
+By the way, playing the games works fine.  I just can't click the ‘see inside’ button to get into the editor.
+I'm using IE9 and Chrome on Window 7.
+Last edited by BoltBait (Oct. 16, 2012 11:48:30)

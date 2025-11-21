@@ -1,0 +1,6 @@
+LS97
+It works, but thank you Hardmath!
+I just noticed that galleries made by a user do not seem to appear in the results (when searching for the user)!
+No, none of the search really works. You can search for testers I spose.
+But that's a pretty small subset of what you should be able to search for.
+The reason has to do with problems importing the view tables from the old site. Search functionality depends on views, and dies without them.

@@ -1,0 +1,1 @@
+That's strange. Yesterday, I wrote a topic also about cloud variables and I had a similar problem with my project. Whenever anyone else wrote on my list on my project, it showed up but mine deleted every time I wrote one. I don't know why but it suddenly started working after two hours. Maybe the same thing will happen to you.

@@ -1,0 +1,1 @@
+That' because while using the editor facilities while the project running causes more on your RAM. You should expect it to do that. I don't think it's exactly a fixable problem, just a matter of your computer specs in this case. For example, Lightnin didn't notice it because he's probably on a Mac with a lot of RAM.

@@ -1,0 +1,14 @@
+V154
+Changes:
+- bug: list reporter should suppress spaces when list contains only single letters
+- bug: global variables not being updated when dragging sprite in full-screen mode
+- bug: talk bubble not tracking dragged sprite in full-screen mode
+- bug: touching color white reports true when sprite is partly off screen
+- added a version number to the old website player
+- changed extension names
+- moved x/y-scroll to Sensing
+- changed order and default in “align scene” menu
+- changed to singular hour/minute/secon in the time block menu
+- increased inter-letter space on blocks slightly (0.5 pixels)
+- suppress horizontal scroll bar in the palette
+Last edited by Lightnin (Oct. 4, 2012 13:19:34)

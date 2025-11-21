@@ -1,0 +1,1 @@
+There are also some problems with search at the moment, and views on older projects won't reflect the right numbers. We're planning on sorting that out, but it may take a week or two.

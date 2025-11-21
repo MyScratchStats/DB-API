@@ -1,0 +1,1 @@
+Since we have an entire forum system purely for 2.0, we should take advantage of that and separate into different boards. We could have one for bugs, one for suggestions, one for the forums, and one general 2.0 discussion.

@@ -1,0 +1,4 @@
+wolvesstar97
+Deleting a gallery doesnt seem to be working… actually, there isnt a dialouge for deleting it at all! :O
+Quite so! I'm afraid that's one of the features we have yet to implement.
+Actually, we were talking earlier today about a different design for galleries (that I think is much better). Hopefully we'll have something to test soon!

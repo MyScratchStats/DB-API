@@ -1,0 +1,6 @@
+BoltBait
+Yes, I've rebooted, cleared my cache, forced refresh the page.  I've even tried hooking up to a different internet connection in another city… nothing.
+By the way, playing the games works fine.  I just can't click the ‘see inside’ button to get into the editor.
+I'm using IE9 and Chrome on Window 7.
+This sounds like it could be a Javascript related bug. In Chrome can you open up your javascript console and check if there are any errors generated- either on page load or when clicking ‘see inside’.
+The JavaScript console is in Tools > JavaScript console

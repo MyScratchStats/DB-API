@@ -1,0 +1,1 @@
+I think for 1 clone, you just select “for this  sprite only” when making the parent. For all clones, just use a global variable.

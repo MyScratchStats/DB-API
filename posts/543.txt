@@ -1,0 +1,1 @@
+I think in Scratch 1.4 this problem didn't exist because the sprite selection dropdown actually pointed to the sprite object in Squeak. Whereas probably in 2.0 it's just a string. Maybe you shouldn't name it stage after all…

@@ -1,0 +1,2 @@
+Ah, I think we have a handle on this one - it has to do with hardware cursor issues on Firefox in the paint editor. Hopefully should be a fix soon (or at least we'll disable the cursor stuff. That'll be kinda bad because the cursor won't change depending on what tool you have selected. But it's better than crashing.)
+In any case, this doesn't happen for me on Chrome - only FF.

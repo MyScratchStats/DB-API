@@ -1,0 +1,4 @@
+Here's a fun example!
+http://alpha.scratch.mit.edu/projects/10000638/?mode=player
+We're going to update the homepage soon with a row that shows galleries of cool stuff you can try - one of which contains camera blocks example projects.
+Stevetheipad, I think you'll be surprised by what's possible.

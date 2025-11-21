@@ -1,0 +1,2 @@
+I made a project which demonstrates this concept of Client-Side and Server-Side.  First best part: it only ever has one instance of the server/host side running!  Second best part: it's actually in only one project.
+Cloud Variables - Client/Server Sided Project

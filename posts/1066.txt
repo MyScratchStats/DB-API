@@ -1,0 +1,10 @@
+BoltBait
+OK, here's what happens:
+I ran Chrome and went to my chess game page.
+I clicked the “see inside” button and nothing happened.  Then I pressed Shift-Ctrl-I to open the console.  Next, I pressed the “see inside” button and it actually went into the editor!
+So, thinking that maybe that unstuck something, I went to IE and tried to go into the editor… nothing.
+At least I can use it on Chrome.  But, this is something that will need to be fixed for the final release–because I'm not the only person to see this behavior.  And, IE is still the most common browser in North America.
+Hm that's interesting. I'm glad you're able to get into the editor now. A few questions to help us resolve the issue in the long run:
+- Did you see any script errors in IE?
+- Can you try keeping the console open in chrome and loading the project page - and then let us know if you see any errors in the console? (before clicking “see inside”)
+Thanks for your help!

@@ -1,0 +1,4 @@
+So it looks like Lucario beat me to it on the other thread.
+You actually can choose whether you want people to be able to vote more than once or only one time. There is a user id block which can be used to only let people vote a certain amount of times.
+Now I have another question.
+Is there a way to make it so people have to wait a certain amount of time to post again?

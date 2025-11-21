@@ -1,0 +1,5 @@
+How do I incorporate this code into
+set [ strength] to [ ((12 sided dice) / (4 sided dice))]
+It just keeps coming up as infinity…..
+Its starting to get very irritating, as I have tried many different ways of changing the code.
+-TW301

@@ -1,0 +1,11 @@
+V155
+- show newly-created variables and lists
+- use old variable and list colors when running on old website
+- use “Lucida Grande” or “Lucida Sans” for block text (check OS to decide)
+- use non-bold font for non-numeric block arguments
+- hide backpack when not logged in
+- another attempt at block colors by Natalie and John
+- bug: whirl and fisheye effects not centered in full- and quarter-screen modes
+- bug: size of pixels in pixelate did not scale in full- and quarter-screen modes
+- bug: stop button or “hide all sprites” leaves orphan talk bubbles for deleted clones
+(v 156 integrates paint editor)

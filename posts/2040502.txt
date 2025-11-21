@@ -1,0 +1,1 @@
+We should probably get rid of the last page button on the suggestions page so people don't get tempted to bump the oldest unclosed topic.

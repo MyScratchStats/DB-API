@@ -1,0 +1,4 @@
+Lightnin
+Hmm… weird. Does it happen consistently, or just once in a while?
+It might actually be triggered randomly b/c of server load.
+Well, I havent tried again in IE, but it's not happened in Chrome.

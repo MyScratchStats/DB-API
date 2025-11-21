@@ -1,0 +1,4 @@
+NeilWest
+I'll try vector sizing out once the paint editor becomes usable. In the meantime, anyone know any vector-compatible Paint.NET plugins?
+Paint.NET is a raster editor, not a vector editor.
+For a free vector editor, try Inkscape.

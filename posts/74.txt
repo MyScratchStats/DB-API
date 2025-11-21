@@ -1,0 +1,6 @@
+new login worked fine and good
+trying a remix and using paint editor a couple things:
+for some reason having the red text telling me to remix to save way over on left lower and the button on the upper right confused me – I went hunting for the remix button for some reason so perhaps the text can navigate the user a bit by adding – “button in the upper right…”
+acknowledging that the paint editor is buggy one thing I noticed is that its not immediately obvious you need to click on the image to erase, but its not always apparent how to get the eraser back once you use the painting tools. I'm not sure I'm being clear but shifting between the tools is a bit confusing
+- oh and I tried the checking draft and later realized I had to share it to use that checkbox
+Last edited by keithbraafladt (Sept. 11, 2012 11:45:10)

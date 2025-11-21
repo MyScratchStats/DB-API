@@ -1,0 +1,2 @@
+There are lots of 8-bit game makers who would also like a raster graphics option. Also, there are some things that HAVE to be done with pixels. It can't be that hard to implement a pixel-painting thing like in Scratch 1.4 as well as the current vectors. Vectors are awesome and amazing, but they can't be used for everything.
+Last edited by Dinoclor (Sept. 27, 2012 00:02:33)

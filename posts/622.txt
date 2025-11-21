@@ -1,0 +1,2 @@
+I agree with LS97; the creator, (and maybe a whitelist?) should get user ID “admin”, or maybe a concatenation of their id and “admin”.
+Last edited by Hardmath123 (Oct. 4, 2012 01:35:17)

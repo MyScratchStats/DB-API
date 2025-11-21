@@ -1,0 +1,9 @@
+Paddle2See
+Lightnin
+Thanks everyone! Good to know most of you feel we're on the right track.
+It's looking like we'll release with no limit to the number of tags an author can create. But it should be easy to place a limit later if we need to.
+If you don't put in a limit, some people will work very hard to maximize it, adding a bunch of spam to the database.  They will do this just for the bragging rights of having “the most tags”.  Please reconsider and put a limit on it, even if it's something totally ridiculous like 20.
+I agree.
+For this project:
+http://alpha.scratch.mit.edu/projects/10000339/?mode=player
+I can think of “Scratch, Gobo, Cat, Survey, Vote!, 2.0” and that'll double when a project is more advanced…so maybe 15?
