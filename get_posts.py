@@ -21,7 +21,7 @@ from dateutil import parser as dateparser
 # -------------------------
 # Configuration
 # -------------------------
-MAX_POST_ID = 1000000
+MAX_POST_ID = 600000
 START_POST_ID = 1
 CSV_FILE = "scratch_posts.csv"
 POSTS_DIR = "posts"
